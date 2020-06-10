@@ -16,6 +16,7 @@
         * [**1.7.4. Formatting**](#formatting)
 * [**2. Channels**](#channels)
     * [**2.1. #general**](#general)
+    * [**2.2. #proposals**](#proposals)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -121,4 +122,12 @@ Each subsection of this rule section corresponds to a game channel; as the subse
 ### <a name='general'/> #general
 
 Players may talk freely in the <#720025182130929775> channel.
+
+### <a name='proposals'/> #proposals
+
+Proposals can be made by posting them to the <#720331819530321920> game channel.
+
+The first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.
+
+A proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed.
 
