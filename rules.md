@@ -7,6 +7,7 @@
     * [**1.2. Accurcay**](#accuracy)
     * [**1.3. Precedence**](#precedence)
     * [**1.4. Rule violations**](#rule-violations)
+    * [**1.5. Timezones**](#timezones)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -44,4 +45,8 @@ In the case of a contradiction between clauses, the following criteria are to be
 Unless explicitly stated in the rules, all game actions are forbidden.
 
 Any game action that is forbidden (a "rule violation") is considered void and does not modify the game state; the action and its consequences are to be reverted.
+
+### <a name='timezones'/> Timezones
+
+Unless otherwise specified, all times and dates are specified with respect to UTC.
 
