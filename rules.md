@@ -6,6 +6,7 @@
     * [**1.1. Glossary**](#glossary)
     * [**1.2. Accurcay**](#accuracy)
     * [**1.3. Precedence**](#precedence)
+    * [**1.4. Rule violations**](#rule-violations)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -37,4 +38,10 @@ In the case of a contradiction between clauses, the following criteria are to be
 
 * If precedence is specified in the relevant rules and is non-contradictory, follow the instructed precedence.
 * The clause which appears last in the rules takes precedence.
+
+### <a name='rule-violations'/> Rule violations
+
+Unless explicitly stated in the rules, all game actions are forbidden.
+
+Any game action that is forbidden (a "rule violation") is considered void and does not modify the game state; the action and its consequences are to be reverted.
 
