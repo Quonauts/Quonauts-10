@@ -28,6 +28,7 @@
     * [**2.3. #rules**](#rules)
     * [**2.4. #polls**](#polls)
         * [**2.4.1. Rule violation polls**](#rule-violation-polls)
+    * [**2.5. #transactions**](#transactions)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -242,4 +243,8 @@ In a rule violation poll, any votes cast by the accused player or the author are
 If the poll passes, the rule violation and its consequences must be reverted.
 
 If the poll passes and more players are in favour of a strike (👍 reactions) than against (🤷 and 👎 reactions), the accused player may not perform any game actions for the next 24 hours.
+
+### <a name='transactions'/> #transactions
+
+The <#720025266256216176> channel may be used to modify quantities, but only in ways specifically allowed by other rules.
 
