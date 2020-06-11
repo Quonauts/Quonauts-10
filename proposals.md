@@ -102,3 +102,13 @@ For each type of building, for each player, set that player's quantity correspon
 
 bees are to be deployed IMMEDIATELY.
 
+<a name='13'/>
+
+## #13
+
+Create a new %test:
+> !q give 200 clay <@!151149148639330304>
+Delete %test immediately after creation.
+
+`//I wonder what triggers first in Quobot, a command or the rule content? Maybe both?`
+
