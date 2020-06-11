@@ -106,7 +106,7 @@ bees are to be deployed IMMEDIATELY.
 
 ## #13
 
-Create a new %test:
+Create a new rule %test:
 > !q give 200 clay <@!151149148639330304>
 Delete %test immediately after creation.
 
