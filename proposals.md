@@ -60,3 +60,21 @@ Add a new rule %lol: if the term "quantity" is in the rules, change it to "quali
 This game sucks, start #11 already. It's neither interesting nor humorous to play when all you say is twisted to the whim of a fake bot.
 I know you're going to edit this to make some sorta random bs but idc. I quit this game. The end.
 
+<a name='9'/>
+
+## #9
+
+Replace the following in %mine:
+> If at least 4 hours have passed since they last did so, the owner of a mine may roll a 6-sided die, and carry out the effects as specified:
+> 
+> • 1: gain 20 clay
+> • 2: gain 250 fuel
+> • 3: gain 10 iron_ore
+> • 4-6: re-roll the die and carry out the effects as specified
+with:
+> If at least 4 hours have passed since they last did so, the owner of a mine may roll a 3-sided die, and carry out the effects as specified:
+> 
+> • 1: gain 20 clay
+> • 2: gain 250 fuel
+> • 3: gain 10 iron_ore
+
