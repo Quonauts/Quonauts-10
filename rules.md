@@ -1,4 +1,4 @@
-# Quonauts X — Rules
+# Quonauts X: Factory Reset — Rules
 
 ## Table of contents
 
@@ -288,7 +288,7 @@ The owner of a building is the player who owns the factory in which the building
 
 If a player has the necessary building materials (as detailed in the relevant subsection) to create a building, they may spend those materials to build that building in their factory. When a player builds a building, they must announce this in <#720657721371918397>, with a message of the form "Built (name of building)".
 
-Buildings may have a power cost. If the owner of a building has enough fuel to do so, they may make that building "in use" by announcing "Activate (name of building)" in <#720657721371918397>. After coming in use, and every hour after that, the owner of that building loses fuel equal to its power cost. It remains in use until its owner announces "Deactivate (name of building)", or they have insufficient fuel to power it for the next hour.
+Buildings may have a power cost in fuel. If so, all operations using this building, unless otherwise specified, consume the specified amount of fuel to take place, and cannot take place if this requirement is not met. Buildings may also declare different power costs per operation.
 
 A player may destroy any building that is not in use, removing it from their factory, by announcing "Destroyed (name of building)" in <#720657721371918397>.
 
