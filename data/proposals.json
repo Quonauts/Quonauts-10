@@ -119,9 +119,34 @@
 			"votes": {
 				"151149148639330304": 1,
 				"160279332454006795": 1,
+				"258639553357676545": 1,
 				"309787486278909952": 0
 			},
 			"timestamp": 1591896891
+		},
+		{
+			"n": 10,
+			"author": 160279332454006795,
+			"content": "Add new quantities named `mines` and `furnaces`.\nThese exist simply to keep track of the corresponding buildings each player has.",
+			"status": "voting",
+			"message_id": 720715098343079972,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": 0,
+				"258639553357676545": 0
+			},
+			"timestamp": 1591898670
+		},
+		{
+			"n": 11,
+			"author": 151149148639330304,
+			"content": "Append the following to %buildings:\n> For each subsection of this rule, there is an untradeable quantity with the same name (pluralized) as the subsection. Whenever a new subsection is created or a subsection is deleted, [%quantities] must be updated to reflect this.\n> \n> Whenever a player builds or destroys a building, that player's corresponding quantity must be updated to match the number of that type of building that that player has remaining.\nAdd the following to %quantities under the list \"List of quantities\":\n> * mines: untradeable. Tracks the number of Mines a player has built.\n> * furnaces: untradeable. Tracks the number of Furnaces a player has built.\n> * very_expensive_temples: untradeable. Tracks the number of Very Expensive Temples a player has built.\n\nFor each type of building, for each player, set that player's quantity corresponding to the type of building to equal the number of that type of building that the player has.",
+			"status": "voting",
+			"message_id": 720718504608661544,
+			"votes": {
+				"151149148639330304": 1
+			},
+			"timestamp": 1591899483
 		}
 	]
 }
