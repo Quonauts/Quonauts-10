@@ -36,6 +36,7 @@
             * [**2.6.1.3. Gibson Loses**](#gibsonloses)
         * [**2.6.2. Buildings**](#buildings)
             * [**2.6.2.1. Mine**](#mine)
+            * [**2.6.2.2. Furnace**](#furnace)
 * [**3. Quantities**](#quantities)
     * [**3.1. Trade**](#trade)
 * [**4. Winning**](#winning)
@@ -310,6 +311,17 @@ If at least 4 hours have passed since they last did so, the owner of a mine may 
 * 2: gain 250 fuel
 * 3: gain 10 iron_ore
 * 4-6: re-roll the die and carry out the effects as specified
+
+##### <a name='furnace'/> Furnace
+
+Required building materials: 4 clay, 2 bricks
+
+Power cost: 50 fuel/hour
+
+If a furnace is in use and at least 15 minutes have passed since they last did so, the owner of that furnace may:
+
+* change 1 of any quantity ending in "\_ore" into the equivalent quantity that does not end with "\_ore".
+* change 1 clay into 1 bricks
 
 ## <a name='quantities'/> Quantities
 
