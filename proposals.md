@@ -53,3 +53,10 @@ An opinion poll must clearly state that it is an opinion poll. By default, the a
 
 Add a new rule %lol: if the term "quantity" is in the rules, change it to "quality", unless it is in %lol.
 
+<a name='8'/>
+
+## #8
+
+This game sucks, start #11 already. It's neither interesting nor humorous to play when all you say is twisted to the whim of a fake bot.
+I know you're going to edit this to make some sorta random bs but idc. I quit this game. The end.
+
