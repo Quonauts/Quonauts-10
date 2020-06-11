@@ -32,6 +32,7 @@
     * [**2.6. #factories**](#factories)
         * [**2.6.1. Building materials**](#building-materials)
             * [**2.6.1.1. Clay**](#clay)
+            * [**2.6.1.2. Bricks**](#bricks)
 * [**3. Quantities**](#quantities)
     * [**3.1. Trade**](#trade)
 * [**4. Winning**](#winning)
@@ -269,6 +270,12 @@ All building materials are tradable.
 ##### <a name='clay'/> Clay
 
 Clay is a building material.
+
+##### <a name='bricks'/> Bricks
+
+Bricks are a building material. A player may spend 2 clay to create one bricks.
+
+Players begin the game with 10 bricks.
 
 ## <a name='quantities'/> Quantities
 
