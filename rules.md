@@ -311,7 +311,7 @@ If at least 4 hours have passed since they last did so, the owner of a mine may 
 
 Required building materials: 4 clay, 2 bricks
 
-Power cost: 50 fuel/hour
+Power cost: 15 fuel/operation
 
 If a furnace is in use and at least 15 minutes have passed since they last did so, the owner of that furnace may:
 
