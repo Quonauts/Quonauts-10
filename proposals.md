@@ -23,3 +23,13 @@ Replace, in %furnace, the text
 with
 > Power cost: 15 fuel/operation
 
+<a name='4'/>
+
+## #4
+
+Create a new rule "Very Expensive Temple" (%vet) in %buildings:
+> The Very Expensive Temple cannot be built.
+
+Prepend to %winning:
+> When a player activates a Very Expensive Temple they own, that player wins.
+
