@@ -33,3 +33,9 @@ Create a new rule "Very Expensive Temple" (%vet) in %buildings:
 Prepend to %winning:
 > When a player activates a Very Expensive Temple they own, that player wins.
 
+<a name='5'/>
+
+## #5
+
+Give all active players 50 clay.
+
