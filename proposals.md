@@ -39,3 +39,11 @@ Prepend to %winning:
 
 Give all active players 50 clay.
 
+<a name='6'/>
+
+## #6
+
+Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls". An opinion poll may only be created by a player if no other opinion poll by that player is currently open.
+
+An opinion poll must clearly state that it is an opinion poll. By default, the allowed reactions of an opinion poll are 👍 (in favor of the poll) and 👎 (against the poll), but the opinion poll may specify different allowed reactions for itself.
+
