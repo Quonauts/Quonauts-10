@@ -25,7 +25,7 @@ with
 
 <a name='4'/>
 
-## #4
+## #4 — Passed
 
 Create a new rule "Very Expensive Temple" (%vet) in %buildings:
 > The Very Expensive Temple cannot be built.
