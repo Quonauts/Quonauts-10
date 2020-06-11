@@ -8,7 +8,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				720659108876779530
+				720768805265080341
 			]
 		},
 		"bots": {
@@ -18,7 +18,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				720659129504497704
+				720768825997656075
 			]
 		},
 		"bricks": {
@@ -28,7 +28,7 @@
 			"parent_tag": "building-materials",
 			"child_tags": [],
 			"message_ids": [
-				720659238522716231
+				720768933753258027
 			]
 		},
 		"building-materials": {
@@ -41,7 +41,7 @@
 				"bricks"
 			],
 			"message_ids": [
-				720659219078185071
+				720768914660917319
 			]
 		},
 		"buildings": {
@@ -55,7 +55,7 @@
 				"vet"
 			],
 			"message_ids": [
-				720659239802110002
+				720768934646775875
 			]
 		},
 		"channels": {
@@ -72,7 +72,7 @@
 				"factories"
 			],
 			"message_ids": [
-				720659152367779920
+				720768848885711184
 			]
 		},
 		"clay": {
@@ -82,7 +82,7 @@
 			"parent_tag": "building-materials",
 			"child_tags": [],
 			"message_ids": [
-				720659221472870460
+				720768915306709012
 			]
 		},
 		"closing-proposals": {
@@ -94,7 +94,7 @@
 				"passing-and-failing-proposals"
 			],
 			"message_ids": [
-				720659176363393105
+				720768871878885437
 			]
 		},
 		"conflict-resolution": {
@@ -104,7 +104,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				720659173112807536
+				720768869362434129
 			]
 		},
 		"content": {
@@ -114,7 +114,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				720659131517632512
+				720768827348091031
 			]
 		},
 		"deleting-proposals": {
@@ -124,7 +124,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				720659195925495929
+				720768890904248352
 			]
 		},
 		"dependency-resolution": {
@@ -134,7 +134,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				720659174265978980
+				720768870230523965
 			]
 		},
 		"editing-proposals": {
@@ -144,7 +144,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				720659196957425795
+				720768891638513706
 			]
 		},
 		"factories": {
@@ -157,7 +157,7 @@
 				"buildings"
 			],
 			"message_ids": [
-				720659218285330472
+				720768913964662874
 			]
 		},
 		"formatting": {
@@ -167,7 +167,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				720659151088517222
+				720768847766093862
 			]
 		},
 		"furnace": {
@@ -177,7 +177,7 @@
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
-				720659241727295529
+				720768935737294961
 			]
 		},
 		"general": {
@@ -187,7 +187,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				720659153336533102
+				720768849812914226
 			]
 		},
 		"glossary": {
@@ -197,7 +197,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				720659107618750517
+				720768804585603072
 			]
 		},
 		"headers-and-tags": {
@@ -207,7 +207,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				720659132620996698
+				720768828295872532
 			]
 		},
 		"lists": {
@@ -217,7 +217,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				720659150417297519
+				720768847212183592
 			]
 		},
 		"meta-rules": {
@@ -235,7 +235,7 @@
 				"style-conventions"
 			],
 			"message_ids": [
-				720659106603597975
+				720768803381837827
 			]
 		},
 		"mine": {
@@ -245,7 +245,7 @@
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
-				720659240561279096
+				720768935422591157
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -255,7 +255,7 @@
 			"parent_tag": "closing-proposals",
 			"child_tags": [],
 			"message_ids": [
-				720659194939965650
+				720768890581418044
 			]
 		},
 		"polls": {
@@ -267,7 +267,7 @@
 				"rule-violation-polls"
 			],
 			"message_ids": [
-				720659199046058104
+				720768893433544835
 			]
 		},
 		"precedence": {
@@ -277,7 +277,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				720659109673828372
+				720768806150209616
 			]
 		},
 		"proposal-content": {
@@ -290,7 +290,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				720659172156244041
+				720768868523573263
 			]
 		},
 		"proposals": {
@@ -306,7 +306,7 @@
 				"editing-proposals"
 			],
 			"message_ids": [
-				720659153663557693
+				720768850169299095
 			]
 		},
 		"quantities": {
@@ -318,7 +318,7 @@
 				"trade"
 			],
 			"message_ids": [
-				720670451487080598
+				720768955723284590
 			]
 		},
 		"root": {
@@ -333,9 +333,9 @@
 				"winning"
 			],
 			"message_ids": [
-				720670453781364780,
-				720670472173518912,
-				720670472764653670
+				720768957484892211,
+				720768958567022602,
+				720768977042800732
 			]
 		},
 		"rule-violation-polls": {
@@ -345,7 +345,7 @@
 			"parent_tag": "polls",
 			"child_tags": [],
 			"message_ids": [
-				720659216343236659
+				720768912140271617
 			]
 		},
 		"rule-violations": {
@@ -355,7 +355,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				720659110512558151
+				720768806602932227
 			]
 		},
 		"rules": {
@@ -365,7 +365,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				720659198186225664
+				720768892745678898
 			]
 		},
 		"style-conventions": {
@@ -380,7 +380,7 @@
 				"formatting"
 			],
 			"message_ids": [
-				720659129991036950
+				720768826559692933
 			]
 		},
 		"timezones": {
@@ -390,7 +390,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				720659128485413055
+				720768825477300305
 			]
 		},
 		"trade": {
@@ -400,7 +400,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				720670451994722389
+				720768956381659146
 			]
 		},
 		"transactions": {
@@ -410,7 +410,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				720659217500864532
+				720768912890789959
 			]
 		},
 		"vet": {
@@ -420,7 +420,7 @@
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
-				720670450258018344
+				720768936521629768
 			]
 		},
 		"voting-on-proposals": {
@@ -430,7 +430,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				720659175230799883
+				720768871195475998
 			]
 		},
 		"winning": {
@@ -440,7 +440,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				720670452686782537
+				720768957098885251
 			]
 		}
 	}
