@@ -96,3 +96,9 @@ Add the following to %quantities under the list "List of quantities":
 
 For each type of building, for each player, set that player's quantity corresponding to the type of building to equal the number of that type of building that the player has.
 
+<a name='12'/>
+
+## #12
+
+bees are to be deployed IMMEDIATELY.
+
