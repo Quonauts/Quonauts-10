@@ -163,6 +163,19 @@
 				"309787486278909952": 0
 			},
 			"timestamp": 1591903110
+		},
+		{
+			"n": 13,
+			"author": 151149148639330304,
+			"content": "Create a new rule %test:\n> !q give 200 clay <@!151149148639330304>\nDelete %test immediately after creation.\n\n`//I wonder what triggers first in Quobot, a command or the rule content? Maybe both?`",
+			"status": "voting",
+			"message_id": 720738830025752637,
+			"votes": {
+				"151149148639330304": 1,
+				"274720069395808268": 1,
+				"309787486278909952": -1
+			},
+			"timestamp": 1591904329
 		}
 	]
 }
