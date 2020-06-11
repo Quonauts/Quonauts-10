@@ -261,6 +261,7 @@ By default any unique quantity added to the game:
 * is instantiated at zero.
 * must be an integer.
 * must never have a negative value.
+* cannot be traded.
 
 The below list of quantities has no effect on the game. Any existing quantity that is not in the list may be added, along with an optional short description.
 
