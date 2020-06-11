@@ -51,7 +51,8 @@
 			"parent_tag": "factories",
 			"child_tags": [
 				"mine",
-				"furnace"
+				"furnace",
+				"vet"
 			],
 			"message_ids": [
 				720659239802110002
@@ -317,7 +318,7 @@
 				"trade"
 			],
 			"message_ids": [
-				720659242670883008
+				720670451487080598
 			]
 		},
 		"root": {
@@ -332,9 +333,9 @@
 				"winning"
 			],
 			"message_ids": [
-				720659262371528754,
-				720659263126503514,
-				720659263831277680
+				720670453781364780,
+				720670472173518912,
+				720670472764653670
 			]
 		},
 		"rule-violation-polls": {
@@ -399,7 +400,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				720659260488548422
+				720670451994722389
 			]
 		},
 		"transactions": {
@@ -410,6 +411,16 @@
 			"child_tags": [],
 			"message_ids": [
 				720659217500864532
+			]
+		},
+		"vet": {
+			"tag": "vet",
+			"title": "Very Expensive Temple",
+			"content": "The Very Expensive Temple cannot be built.",
+			"parent_tag": "buildings",
+			"child_tags": [],
+			"message_ids": [
+				720670450258018344
 			]
 		},
 		"voting-on-proposals": {
@@ -425,11 +436,11 @@
 		"winning": {
 			"tag": "winning",
 			"title": "Winning",
-			"content": "When one or more players have won, the game ends.",
+			"content": "When a player activates a Very Expensive Temple they own, that player wins.\n\nWhen one or more players have won, the game ends.",
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				720659261168025611
+				720670452686782537
 			]
 		}
 	}

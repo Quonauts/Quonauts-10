@@ -40,6 +40,20 @@
 				"309787486278909952": 1
 			},
 			"timestamp": 1591887055
+		},
+		{
+			"n": 4,
+			"author": 309787486278909952,
+			"content": "Create a new rule \"Very Expensive Temple\" (%vet) in %buildings:\n> The Very Expensive Temple cannot be built.\n\nPrepend to %winning:\n> When a player activates a Very Expensive Temple they own, that player wins.",
+			"status": "passed",
+			"message_id": 720669414697205761,
+			"votes": {
+				"160279332454006795": 0,
+				"258639553357676545": 1,
+				"309787486278909952": 1,
+				"543131534685765673": 1
+			},
+			"timestamp": 1591887778
 		}
 	]
 }
