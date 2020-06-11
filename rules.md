@@ -315,7 +315,7 @@ Power cost: 50 fuel/hour
 
 If a furnace is in use and at least 15 minutes have passed since they last did so, the owner of that furnace may:
 
-* change 1 of any quantity ending in "\_ore" into the equivalent quantity that does not end with "\_ore".
+* change 1 of any quantity ending in "_ore" into the equivalent quantity that does not end with "_ore".
 * change 1 clay into 1 bricks
 
 ## <a name='quantities'/> Quantities
