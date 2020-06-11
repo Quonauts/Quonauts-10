@@ -1,1 +1,32 @@
-{}
+{
+	"bricks": {
+		"name": "bricks",
+		"aliases": [],
+		"players": {},
+		"default_value": 10
+	},
+	"clay": {
+		"name": "clay",
+		"aliases": [],
+		"players": {},
+		"default_value": 0
+	},
+	"fuel": {
+		"name": "fuel",
+		"aliases": [],
+		"players": {},
+		"default_value": 0
+	},
+	"iron": {
+		"name": "iron",
+		"aliases": [],
+		"players": {},
+		"default_value": 0
+	},
+	"iron_ore": {
+		"name": "iron_ore",
+		"aliases": [],
+		"players": {},
+		"default_value": 0
+	}
+}
