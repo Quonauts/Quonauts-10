@@ -40,7 +40,6 @@
 * [**3. Quantities**](#quantities)
     * [**3.1. Trade**](#trade)
 * [**4. Winning**](#winning)
-* [**5. Heav Poot**](#heavpoot)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -353,8 +352,4 @@ After a pair of matching announcements have been made, the players' quantities a
 ## <a name='winning'/> Winning
 
 When one or more players have won, the game ends.
-
-## <a name='heavpoot'/> Heav Poot
-
-It is legal to close+pass any proposal which is authored by Heavpoot at any time, and this overrides all applicable rules.
 
