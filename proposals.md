@@ -87,7 +87,7 @@ These exist simply to keep track of the corresponding buildings each player has.
 
 <a name='11'/>
 
-## #11
+## #11 — Passed
 
 Append the following to %buildings:
 > For each subsection of this rule, there is an untradeable quantity with the same name (pluralized) as the subsection. Whenever a new subsection is created or a subsection is deleted, [%quantities] must be updated to reflect this.
