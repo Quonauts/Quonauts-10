@@ -30,6 +30,7 @@
         * [**2.4.1. Rule violation polls**](#rule-violation-polls)
     * [**2.5. #transactions**](#transactions)
     * [**2.6. #factories**](#factories)
+        * [**2.6.1. Building materials**](#building-materials)
 * [**3. Quantities**](#quantities)
     * [**3.1. Trade**](#trade)
 * [**4. Winning**](#winning)
@@ -257,6 +258,12 @@ The <#720025266256216176> channel may be used to modify quantities, but only in 
 The <#720657721371918397> channel is used to announce actions related to factories.
 
 Each player has a factory, which consists of zero or more buildings.
+
+#### <a name='building-materials'/> Building materials
+
+Building materials are quantities that can be spent in order to create buildings. Each subsection of this rule corresponds to a building material.
+
+All building materials are tradable.
 
 ## <a name='quantities'/> Quantities
 
