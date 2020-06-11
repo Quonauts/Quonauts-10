@@ -31,6 +31,7 @@
     * [**2.5. #transactions**](#transactions)
     * [**2.6. #factories**](#factories)
         * [**2.6.1. Building materials**](#building-materials)
+            * [**2.6.1.1. Clay**](#clay)
 * [**3. Quantities**](#quantities)
     * [**3.1. Trade**](#trade)
 * [**4. Winning**](#winning)
@@ -264,6 +265,10 @@ Each player has a factory, which consists of zero or more buildings.
 Building materials are quantities that can be spent in order to create buildings. Each subsection of this rule corresponds to a building material.
 
 All building materials are tradable.
+
+##### <a name='clay'/> Clay
+
+Clay is a building material.
 
 ## <a name='quantities'/> Quantities
 
