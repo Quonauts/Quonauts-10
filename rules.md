@@ -36,6 +36,7 @@
         * [**2.6.2. Buildings**](#buildings)
             * [**2.6.2.1. Mine**](#mine)
             * [**2.6.2.2. Furnace**](#furnace)
+            * [**2.6.2.3. Very Expensive Temple**](#vet)
 * [**3. Quantities**](#quantities)
     * [**3.1. Trade**](#trade)
 * [**4. Winning**](#winning)
@@ -317,6 +318,10 @@ If a furnace is in use and at least 15 minutes have passed since they last did s
 
 * change 1 of any quantity ending in "_ore" into the equivalent quantity that does not end with "_ore".
 * change 1 clay into 1 bricks
+
+##### <a name='vet'/> Very Expensive Temple
+
+The Very Expensive Temple cannot be built.
 
 ## <a name='quantities'/> Quantities
 
