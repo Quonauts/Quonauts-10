@@ -62,7 +62,7 @@ I know you're going to edit this to make some sorta random bs but idc. I quit th
 
 <a name='9'/>
 
-## #9
+## #9 — Passed
 
 Replace the following in %mine:
 > If at least 4 hours have passed since they last did so, the owner of a mine may roll a 6-sided die, and carry out the effects as specified:
