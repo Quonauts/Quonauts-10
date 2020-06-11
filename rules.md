@@ -305,12 +305,11 @@ Required building materials: 10 bricks
 
 If at least 2 hours have passed since they last did so, the owner of a mine may gain 100 fuel.
 
-If at least 4 hours have passed since they last did so, the owner of a mine may roll a 6-sided die, and carry out the effects as specified:
+If at least 4 hours have passed since they last did so, the owner of a mine may roll a 3-sided die, and carry out the effects as specified:
 
-* 1: gain 20 clay
-* 2: gain 250 fuel
-* 3: gain 10 iron_ore
-* 4-6: re-roll the die and carry out the effects as specified
+• 1: gain 20 clay
+• 2: gain 250 fuel
+• 3: gain 10 iron_ore
 
 ##### <a name='furnace'/> Furnace
 
