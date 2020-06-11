@@ -78,3 +78,10 @@ with:
 > • 2: gain 250 fuel
 > • 3: gain 10 iron_ore
 
+<a name='10'/>
+
+## #10
+
+Add new quantities named `mines` and `furnaces`.
+These exist simply to keep track of the corresponding buildings each player has.
+
