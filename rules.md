@@ -356,5 +356,7 @@ After a pair of matching announcements have been made, the players' quantities a
 
 ## <a name='winning'/> Winning
 
+When a player activates a Very Expensive Temple they own, that player wins.
+
 When one or more players have won, the game ends.
 
