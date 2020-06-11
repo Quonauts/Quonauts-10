@@ -85,3 +85,18 @@ with:
 Add new quantities named `mines` and `furnaces`.
 These exist simply to keep track of the corresponding buildings each player has.
 
+<a name='11'/>
+
+## #11
+
+Append the following to %buildings:
+> For each subsection of this rule, there is an untradeable quantity with the same name (pluralized) as the subsection. Whenever a new subsection is created or a subsection is deleted, [%quantities] must be updated to reflect this.
+> 
+> Whenever a player builds or destroys a building, that player's corresponding quantity must be updated to match the number of that type of building that that player has remaining.
+> Add the following to %quantities under the list "List of quantities":
+> * mines: untradeable. Tracks the number of Mines a player has built.
+> * furnaces: untradeable. Tracks the number of Furnaces a player has built.
+> * very_expensive_temples: untradeable. Tracks the number of Very Expensive Temples a player has built.
+
+For each type of building, for each player, set that player's quantity corresponding to the type of building to equal the number of that type of building that the player has.
+
