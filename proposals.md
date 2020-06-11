@@ -12,7 +12,7 @@ h
 
 <a name='3'/>
 
-## #3
+## #3 — Passed
 
 Replace, in %buildings, the text
 > Buildings may have a power cost. If the owner of a building has enough fuel to do so, they may make that building "in use" by announcing "Activate (name of building)" in <#720657721371918397>. After coming in use, and every hour after that, the owner of that building loses fuel equal to its power cost. It remains in use until its owner announces "Deactivate (name of building)", or they have insufficient fuel to power it for the next hour.
