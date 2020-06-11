@@ -29,6 +29,7 @@
     * [**2.4. #polls**](#polls)
         * [**2.4.1. Rule violation polls**](#rule-violation-polls)
     * [**2.5. #transactions**](#transactions)
+    * [**2.6. #factories**](#factories)
 * [**3. Quantities**](#quantities)
     * [**3.1. Trade**](#trade)
 * [**4. Winning**](#winning)
@@ -250,6 +251,12 @@ If the poll passes and more players are in favour of a strike (👍 reactions) t
 ### <a name='transactions'/> #transactions
 
 The <#720025266256216176> channel may be used to modify quantities, but only in ways specifically allowed by other rules.
+
+### <a name='factories'/> #factories
+
+The <#720657721371918397> channel is used to announce actions related to factories.
+
+Each player has a factory, which consists of zero or more buildings.
 
 ## <a name='quantities'/> Quantities
 
