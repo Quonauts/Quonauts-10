@@ -34,6 +34,7 @@
             * [**2.6.1.1. Clay**](#clay)
             * [**2.6.1.2. Bricks**](#bricks)
             * [**2.6.1.3. Gibson Loses**](#gibsonloses)
+        * [**2.6.2. Buildings**](#buildings)
 * [**3. Quantities**](#quantities)
     * [**3.1. Trade**](#trade)
 * [**4. Winning**](#winning)
@@ -281,6 +282,20 @@ Players begin the game with 10 bricks.
 ##### <a name='gibsonloses'/> Gibson Loses
 
 gibson-loses is a building material
+
+#### <a name='buildings'/> Buildings
+
+Each subsection of this rule corresponds to a building that can be built in a player's factory. If a subsection of this rule is deleted, any factories containing buildings of that type no longer contain those buildings.
+
+The owner of a building is the player who owns the factory in which the building resides.
+
+If a player has the necessary building materials (as detailed in the relevant subsection) to create a building, they may spend those materials to build that building in their factory. When a player builds a building, they must announce this in <#720657721371918397>, with a message of the form "Built (name of building)".
+
+Buildings may have a power cost. If the owner of a building has enough fuel to do so, they may make that building "in use" by announcing "Activate (name of building)" in <#720657721371918397>. After coming in use, and every hour after that, the owner of that building loses fuel equal to its power cost. It remains in use until its owner announces "Deactivate (name of building)", or they have insufficient fuel to power it for the next hour.
+
+A player may destroy any building that is not in use, removing it from their factory, by announcing "Destroyed (name of building)" in <#720657721371918397>.
+
+In the above quotes, "(name of building)" should be replaced with the name of the relevant subsection.
 
 ## <a name='quantities'/> Quantities
 
