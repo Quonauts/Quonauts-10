@@ -30,6 +30,7 @@
         * [**2.4.1. Rule violation polls**](#rule-violation-polls)
     * [**2.5. #transactions**](#transactions)
 * [**3. Quantities**](#quantities)
+    * [**3.1. Trade**](#trade)
 * [**4. Winning**](#winning)
 
 ## <a name='meta-rules'/> Meta rules
@@ -264,6 +265,16 @@ By default any unique quantity added to the game:
 The below list of quantities has no effect on the game. Any existing quantity that is not in the list may be added, along with an optional short description.
 
 List of quantities:
+
+### <a name='trade'/> Trade
+
+Any two players may exchange predetermined non-negative amounts of any two tradable quantities. Both players must make an announcement in <#720025266256216176>, clearly stating:
+
+* who the other party is.
+* which quantities will be traded.
+* the amounts of each quantity that will be traded.
+
+After a pair of matching announcements have been made, the players' quantities are changed according to the trade.
 
 ## <a name='winning'/> Winning
 
