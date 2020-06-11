@@ -114,7 +114,7 @@
 			"n": 9,
 			"author": 151149148639330304,
 			"content": "Replace the following in %mine:\n> If at least 4 hours have passed since they last did so, the owner of a mine may roll a 6-sided die, and carry out the effects as specified:\n> \n> \u2022 1: gain 20 clay\n> \u2022 2: gain 250 fuel\n> \u2022 3: gain 10 iron_ore\n> \u2022 4-6: re-roll the die and carry out the effects as specified\nwith:\n> If at least 4 hours have passed since they last did so, the owner of a mine may roll a 3-sided die, and carry out the effects as specified:\n> \n> \u2022 1: gain 20 clay\n> \u2022 2: gain 250 fuel\n> \u2022 3: gain 10 iron_ore",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 720707635284017174,
 			"votes": {
 				"151149148639330304": 1,
@@ -141,7 +141,7 @@
 			"n": 11,
 			"author": 151149148639330304,
 			"content": "Append the following to %buildings:\n> For each subsection of this rule, there is an untradeable quantity with the same name (pluralized) as the subsection. Whenever a new subsection is created or a subsection is deleted, [%quantities] must be updated to reflect this.\n> \n> Whenever a player builds or destroys a building, that player's corresponding quantity must be updated to match the number of that type of building that that player has remaining.\nAdd the following to %quantities under the list \"List of quantities\":\n> * mines: untradeable. Tracks the number of Mines a player has built.\n> * furnaces: untradeable. Tracks the number of Furnaces a player has built.\n> * very_expensive_temples: untradeable. Tracks the number of Very Expensive Temples a player has built.\n\nFor each type of building, for each player, set that player's quantity corresponding to the type of building to equal the number of that type of building that the player has.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 720718504608661544,
 			"votes": {
 				"151149148639330304": 1,
