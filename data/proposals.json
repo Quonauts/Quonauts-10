@@ -77,6 +77,7 @@
 			"message_id": 720696444247474176,
 			"votes": {
 				"151149148639330304": 1,
+				"160279332454006795": 0,
 				"309787486278909952": 1
 			},
 			"timestamp": 1591894223
@@ -89,6 +90,7 @@
 			"message_id": 720704855450058852,
 			"votes": {
 				"151149148639330304": -1,
+				"160279332454006795": -1,
 				"309787486278909952": -1,
 				"421060058009305088": 1
 			},
@@ -102,10 +104,24 @@
 			"message_id": 720705045452292218,
 			"votes": {
 				"151149148639330304": 1,
+				"160279332454006795": -1,
 				"309787486278909952": 0,
 				"421060058009305088": -1
 			},
 			"timestamp": 1591896274
+		},
+		{
+			"n": 9,
+			"author": 151149148639330304,
+			"content": "Replace the following in %mine:\n> If at least 4 hours have passed since they last did so, the owner of a mine may roll a 6-sided die, and carry out the effects as specified:\n> \n> \u2022 1: gain 20 clay\n> \u2022 2: gain 250 fuel\n> \u2022 3: gain 10 iron_ore\n> \u2022 4-6: re-roll the die and carry out the effects as specified\nwith:\n> If at least 4 hours have passed since they last did so, the owner of a mine may roll a 3-sided die, and carry out the effects as specified:\n> \n> \u2022 1: gain 20 clay\n> \u2022 2: gain 250 fuel\n> \u2022 3: gain 10 iron_ore",
+			"status": "voting",
+			"message_id": 720707635284017174,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"309787486278909952": 0
+			},
+			"timestamp": 1591896891
 		}
 	]
 }
