@@ -1,4 +1,45 @@
 {
 	"channel": 720331819530321920,
-	"proposals": []
+	"proposals": [
+		{
+			"n": 1,
+			"author": 543131534685765673,
+			"content": "h",
+			"status": "failed",
+			"message_id": 720661488691445781,
+			"votes": {
+				"160279332454006795": -1,
+				"258639553357676545": -1,
+				"309787486278909952": -1
+			},
+			"timestamp": 1591885889
+		},
+		{
+			"n": 2,
+			"author": 543131534685765673,
+			"content": "Add a rule %antistamina :\n\n> Antistamina is a quantity. For n bricks used, n antistamina is gained. If antistamina is at 100, then the player cannot carry out actions which would create buildings until it is lowered.",
+			"status": "deleted",
+			"message_id": 720664749833977989,
+			"votes": {
+				"160279332454006795": -1,
+				"258639553357676545": -1,
+				"309787486278909952": -1,
+				"543131534685765673": -1
+			},
+			"timestamp": 1591886666
+		},
+		{
+			"n": 3,
+			"author": 258639553357676545,
+			"content": "Replace, in %buildings, the text\n> Buildings may have a power cost. If the owner of a building has enough fuel to do so, they may make that building \"in use\" by announcing \"Activate (name of building)\" in <#720657721371918397>. After coming in use, and every hour after that, the owner of that building loses fuel equal to its power cost. It remains in use until its owner announces \"Deactivate (name of building)\", or they have insufficient fuel to power it for the next hour.\nwith \n> Buildings may have a power cost in fuel. If so, all operations using this building, unless otherwise specified, consume the specified amount of fuel to take place, and cannot take place if this requirement is not met. Buildings may also declare different power costs per operation.\nReplace, in %furnace, the text\n> Power cost: 50 fuel/hour\nwith\n> Power cost: 15 fuel/operation",
+			"status": "passed",
+			"message_id": 720666378734141481,
+			"votes": {
+				"160279332454006795": 1,
+				"258639553357676545": 1,
+				"309787486278909952": 1
+			},
+			"timestamp": 1591887055
+		}
+	]
 }
