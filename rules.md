@@ -33,7 +33,6 @@
         * [**2.6.1. Building materials**](#building-materials)
             * [**2.6.1.1. Clay**](#clay)
             * [**2.6.1.2. Bricks**](#bricks)
-            * [**2.6.1.3. Gibson Loses**](#gibsonloses)
         * [**2.6.2. Buildings**](#buildings)
             * [**2.6.2.1. Mine**](#mine)
             * [**2.6.2.2. Furnace**](#furnace)
@@ -280,10 +279,6 @@ Clay is a building material.
 Bricks are a building material. A player may spend 2 clay to create one bricks.
 
 Players begin the game with 10 bricks.
-
-##### <a name='gibsonloses'/> Gibson Loses
-
-gibson-loses is a building material
 
 #### <a name='buildings'/> Buildings
 
