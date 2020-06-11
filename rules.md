@@ -35,6 +35,7 @@
             * [**2.6.1.2. Bricks**](#bricks)
             * [**2.6.1.3. Gibson Loses**](#gibsonloses)
         * [**2.6.2. Buildings**](#buildings)
+            * [**2.6.2.1. Mine**](#mine)
 * [**3. Quantities**](#quantities)
     * [**3.1. Trade**](#trade)
 * [**4. Winning**](#winning)
@@ -296,6 +297,19 @@ Buildings may have a power cost. If the owner of a building has enough fuel to d
 A player may destroy any building that is not in use, removing it from their factory, by announcing "Destroyed (name of building)" in <#720657721371918397>.
 
 In the above quotes, "(name of building)" should be replaced with the name of the relevant subsection.
+
+##### <a name='mine'/> Mine
+
+Required building materials: 10 bricks
+
+If at least 2 hours have passed since they last did so, the owner of a mine may gain 100 fuel.
+
+If at least 4 hours have passed since they last did so, the owner of a mine may roll a 6-sided die, and carry out the effects as specified:
+
+* 1: gain 20 clay
+* 2: gain 250 fuel
+* 3: gain 10 iron_ore
+* 4-6: re-roll the die and carry out the effects as specified
 
 ## <a name='quantities'/> Quantities
 
