@@ -47,3 +47,9 @@ Players may conduct polls to informally gather opinions about any game relevant 
 
 An opinion poll must clearly state that it is an opinion poll. By default, the allowed reactions of an opinion poll are 👍 (in favor of the poll) and 👎 (against the poll), but the opinion poll may specify different allowed reactions for itself.
 
+<a name='7'/>
+
+## #7
+
+Add a new rule %lol: if the term "quantity" is in the rules, change it to "quality", unless it is in %lol.
+
