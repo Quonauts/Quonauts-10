@@ -35,7 +35,7 @@ Prepend to %winning:
 
 <a name='5'/>
 
-## #5
+## #5 — Passed
 
 Give all active players 50 clay.
 
