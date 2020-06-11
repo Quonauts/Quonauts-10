@@ -54,6 +54,32 @@
 				"543131534685765673": 1
 			},
 			"timestamp": 1591887778
+		},
+		{
+			"n": 5,
+			"author": 151149148639330304,
+			"content": "Give all active players 50 clay.",
+			"status": "passed",
+			"message_id": 720691694667956244,
+			"votes": {
+				"151149148639330304": 1,
+				"258639553357676545": -1,
+				"309787486278909952": 0,
+				"332624525592231937": 1
+			},
+			"timestamp": 1591893091
+		},
+		{
+			"n": 6,
+			"author": 151149148639330304,
+			"content": "Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\". An opinion poll may only be created by a player if no other opinion poll by that player is currently open.\n\nAn opinion poll must clearly state that it is an opinion poll. By default, the allowed reactions of an opinion poll are \ud83d\udc4d (in favor of the poll) and \ud83d\udc4e (against the poll), but the opinion poll may specify different allowed reactions for itself.",
+			"status": "voting",
+			"message_id": 720696444247474176,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1
+			},
+			"timestamp": 1591894223
 		}
 	]
 }
