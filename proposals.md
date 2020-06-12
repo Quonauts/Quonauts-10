@@ -112,3 +112,18 @@ Delete %test immediately after creation.
 
 `//I wonder what triggers first in Quobot, a command or the rule content? Maybe both?`
 
+<a name='14'/>
+
+## #14
+
+Add a new rule section within "Building Materials" named "Iron Plates":
+> Iron Plates are a building material.
+Add a new quantity named "iron_plates".
+Add a new rule section within "Buildings" named "Auto-anvil":
+> Required building materials: 5 bricks, 7 iron
+> 
+> Power cost: 30 fuel/operation
+> 
+> If at least 15 minutes have passed since they last did so, the owner of that auto-anvil may:
+> change 2 iron into 1 iron_plate
+
