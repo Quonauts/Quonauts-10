@@ -186,6 +186,18 @@
 				"427589146295664667": 0
 			},
 			"timestamp": 1591904329
+		},
+		{
+			"n": 14,
+			"author": 160279332454006795,
+			"content": "Add a new rule section within \"Building Materials\" named \"Iron Plates\":\n> Iron Plates are a building material.\nAdd a new quantity named \"iron_plates\".\nAdd a new rule section within \"Buildings\" named \"Auto-anvil\":\n> Required building materials: 5 bricks, 7 iron\n> \n> Power cost: 30 fuel/operation\n> \n> If at least 15 minutes have passed since they last did so, the owner of that auto-anvil may:\n> change 2 iron into 1 iron_plate",
+			"status": "voting",
+			"message_id": 720941114139607052,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 1
+			},
+			"timestamp": 1591952557
 		}
 	]
 }
