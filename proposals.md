@@ -127,3 +127,10 @@ Add a new rule section within "Buildings" named "Auto-anvil":
 > If at least 15 minutes have passed since they last did so, the owner of that auto-anvil may:
 > change 2 iron into 1 iron_plate
 
+<a name='15'/>
+
+## #15
+
+GAME OVER
+[RETRY] [QUIT]
+
