@@ -134,3 +134,9 @@ Add a new rule section within "Buildings" named "Auto-anvil":
 GAME OVER
 [RETRY] [QUIT]
 
+<a name='16'/>
+
+## #16
+
+The player <@364562317645709336> dies and becomes a ghost.
+
