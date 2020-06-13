@@ -140,3 +140,9 @@ GAME OVER
 
 The player <@364562317645709336> dies and becomes a ghost.
 
+<a name='17'/>
+
+## #17
+
+Everyone loses. The game does not end.
+
