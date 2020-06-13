@@ -246,6 +246,17 @@
 				"421060058009305088": 1
 			},
 			"timestamp": 1592054005
+		},
+		{
+			"n": 18,
+			"author": 160279332454006795,
+			"content": "Create a new rule section named enough is enough:\n> seriously? you complain about the game being dead then actively kill it.\n> if you dont want to play the game, please just dont play\n> if you do want to play the game, make it better than it is or dont propose at all instead of just proposing silly things\n> this has gone on for too long, enough is enough, please stop with the nonsense proposals",
+			"status": "voting",
+			"message_id": 721490931903234098,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1592083646
 		}
 	]
 }
