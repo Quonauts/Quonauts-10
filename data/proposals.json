@@ -233,6 +233,17 @@
 				"421060058009305088": 0
 			},
 			"timestamp": 1591996681
+		},
+		{
+			"n": 17,
+			"author": 421060058009305088,
+			"content": "Everyone loses. The game does not end.",
+			"status": "voting",
+			"message_id": 721366612778680400,
+			"votes": {
+				"421060058009305088": 1
+			},
+			"timestamp": 1592054005
 		}
 	]
 }
