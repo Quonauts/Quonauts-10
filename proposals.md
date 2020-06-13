@@ -146,3 +146,13 @@ The player <@364562317645709336> dies and becomes a ghost.
 
 Everyone loses. The game does not end.
 
+<a name='18'/>
+
+## #18
+
+Create a new rule section named enough is enough:
+> seriously? you complain about the game being dead then actively kill it.
+> if you dont want to play the game, please just dont play
+> if you do want to play the game, make it better than it is or dont propose at all instead of just proposing silly things
+> this has gone on for too long, enough is enough, please stop with the nonsense proposals
+
