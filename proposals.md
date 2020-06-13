@@ -156,3 +156,9 @@ Create a new rule section named enough is enough:
 > if you do want to play the game, make it better than it is or dont propose at all instead of just proposing silly things
 > this has gone on for too long, enough is enough, please stop with the nonsense proposals
 
+<a name='19'/>
+
+## #19
+
+heavpoot must heave the pot
+
