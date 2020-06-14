@@ -264,7 +264,9 @@
 			"content": "heavpoot must heave the pot",
 			"status": "voting",
 			"message_id": 721497380414947349,
-			"votes": {},
+			"votes": {
+				"151149148639330304": -1
+			},
 			"timestamp": 1592085183
 		}
 	]
