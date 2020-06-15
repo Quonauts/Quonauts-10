@@ -168,3 +168,9 @@ heavpoot must heave the pot
 
 Procedure Sigma is to be enacted within ███ hours.
 
+<a name='21'/>
+
+## #21
+
+This server is dead rip
+
