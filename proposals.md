@@ -174,3 +174,10 @@ Procedure Sigma is to be enacted within ███ hours.
 
 This server is dead rip
 
+<a name='22'/>
+
+## #22
+
+Add a new rule %oats-bad:
+no oats
+
