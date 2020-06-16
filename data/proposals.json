@@ -314,10 +314,24 @@
 			"status": "voting",
 			"message_id": 722060717263683675,
 			"votes": {
+				"160279332454006795": 0,
 				"258639553357676545": 1,
 				"309787486278909952": -1
 			},
 			"timestamp": 1592219492
+		},
+		{
+			"n": 23,
+			"author": 160279332454006795,
+			"content": "Precisely 3 people will be for this, 1 against, and 2 abstain, eventually.",
+			"status": "voting",
+			"message_id": 722445978098991145,
+			"votes": {
+				"160279332454006795": 1,
+				"258639553357676545": 1,
+				"364562317645709336": -1
+			},
+			"timestamp": 1592311346
 		}
 	]
 }
