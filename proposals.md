@@ -181,3 +181,9 @@ This server is dead rip
 Add a new rule %oats-bad:
 no oats
 
+<a name='23'/>
+
+## #23
+
+Precisely 3 people will be for this, 1 against, and 2 abstain, eventually.
+
