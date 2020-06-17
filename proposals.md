@@ -210,3 +210,9 @@ Create the following quantities:
 **honey**: tradeable, gained with bee colonies
 **honeycomb**: tradeable, obtained by destroying beehives, from fakehives, or from honey
 
+<a name='26'/>
+
+## #26
+
+BEES!!!,
+
