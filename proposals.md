@@ -198,3 +198,15 @@ Replace the contents of %vet with the following:
 
 bees
 
+<a name='25'/>
+
+## #25
+
+Create the following quantities:
+**beehives**: tradeable
+**fakehives**: tradeable
+**bee_colonies**: untradable by default, gained by placing beehives
+**bee_souls**: untradeable, gained after sacrificing colonies to the apiform gods
+**honey**: tradeable, gained with bee colonies
+**honeycomb**: tradeable, obtained by destroying beehives, from fakehives, or from honey
+
