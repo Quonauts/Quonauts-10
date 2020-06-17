@@ -334,6 +334,28 @@
 				"421060058009305088": -1
 			},
 			"timestamp": 1592311346
+		},
+		{
+			"n": 24,
+			"author": 364562317645709336,
+			"content": "Replace the contents of %vet with the following:\n> Required building materials: 176 bricks, 50 iron, 200 honeycomb\n> \n> Activation cost (action \"activate\"): 100 bee souls\n\nbees",
+			"status": "voting",
+			"message_id": 722907224690786406,
+			"votes": {
+				"309787486278909952": 0
+			},
+			"timestamp": 1592421314
+		},
+		{
+			"n": 25,
+			"author": 364562317645709336,
+			"content": "Create the following quantities:\n**beehives**: tradeable\n**fakehives**: tradeable\n**bee_colonies**: untradable by default, gained by placing beehives\n**bee_souls**: untradeable, gained after sacrificing colonies to the apiform gods\n**honey**: tradeable, gained with bee colonies\n**honeycomb**: tradeable, obtained by destroying beehives, from fakehives, or from honey",
+			"status": "voting",
+			"message_id": 722909482006609960,
+			"votes": {
+				"309787486278909952": 0
+			},
+			"timestamp": 1592421852
 		}
 	]
 }
