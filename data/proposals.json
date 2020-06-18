@@ -312,7 +312,7 @@
 			"n": 22,
 			"author": 421060058009305088,
 			"content": "Add a new rule %oats-bad:\nno oats",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 722060717263683675,
 			"votes": {
 				"151149148639330304": 1,
@@ -360,7 +360,7 @@
 			"status": "voting",
 			"message_id": 722909482006609960,
 			"votes": {
-				"151149148639330304": -1,
+				"151149148639330304": 0,
 				"309787486278909952": 0,
 				"421060058009305088": -1
 			},
@@ -374,6 +374,17 @@
 			"message_id": 722952265673211914,
 			"votes": {},
 			"timestamp": 1592432053
+		},
+		{
+			"n": 27,
+			"author": 151149148639330304,
+			"content": "This proposal depends on Proposal #24.\nReplace all occurences of \"iron\" in %vet with \"iron_plates\".\n```//iron is not a building material```",
+			"status": "voting",
+			"message_id": 723256565502836777,
+			"votes": {
+				"151149148639330304": 1
+			},
+			"timestamp": 1592504604
 		}
 	]
 }

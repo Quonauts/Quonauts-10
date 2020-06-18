@@ -18,7 +18,7 @@
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
-				723255426350579752
+				723261781514125413
 			]
 		},
 		"bots": {
@@ -38,7 +38,7 @@
 			"parent_tag": "building-materials",
 			"child_tags": [],
 			"message_ids": [
-				720768933753258027
+				723261757748936787
 			]
 		},
 		"building-materials": {
@@ -52,7 +52,7 @@
 				"iron-plates"
 			],
 			"message_ids": [
-				720768914660917319
+				723261755945517147
 			]
 		},
 		"buildings": {
@@ -67,7 +67,7 @@
 				"auto-anvil"
 			],
 			"message_ids": [
-				723254810555449414
+				723261777378541708
 			]
 		},
 		"channels": {
@@ -84,7 +84,7 @@
 				"factories"
 			],
 			"message_ids": [
-				720768848885711184
+				723261690002538526
 			]
 		},
 		"clay": {
@@ -94,7 +94,7 @@
 			"parent_tag": "building-materials",
 			"child_tags": [],
 			"message_ids": [
-				720768915306709012
+				723261757182836757
 			]
 		},
 		"closing-proposals": {
@@ -106,7 +106,7 @@
 				"passing-and-failing-proposals"
 			],
 			"message_ids": [
-				720768871878885437
+				723261714262655036
 			]
 		},
 		"conflict-resolution": {
@@ -116,7 +116,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				720768869362434129
+				723261693769154700
 			]
 		},
 		"content": {
@@ -136,7 +136,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				720768890904248352
+				723261715587792928
 			]
 		},
 		"dependency-resolution": {
@@ -146,7 +146,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				720768870230523965
+				723261712064708638
 			]
 		},
 		"editing-proposals": {
@@ -156,7 +156,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				720768891638513706
+				723261733698928730
 			]
 		},
 		"factories": {
@@ -169,7 +169,7 @@
 				"buildings"
 			],
 			"message_ids": [
-				720768913964662874
+				723261755370766377
 			]
 		},
 		"formatting": {
@@ -189,7 +189,7 @@
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
-				723254812615114913
+				723261778879971330
 			]
 		},
 		"general": {
@@ -199,7 +199,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				720768849812914226
+				723261690824622100
 			]
 		},
 		"glossary": {
@@ -229,7 +229,7 @@
 			"parent_tag": "building-materials",
 			"child_tags": [],
 			"message_ids": [
-				723254808730927216
+				723261759259148352
 			]
 		},
 		"lists": {
@@ -267,7 +267,17 @@
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
-				723254811482652743
+				723261778321997874
+			]
+		},
+		"oats-bad": {
+			"tag": "oats-bad",
+			"title": "Oats bad",
+			"content": "no oats",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				723261801269297257
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -277,7 +287,7 @@
 			"parent_tag": "closing-proposals",
 			"child_tags": [],
 			"message_ids": [
-				720768890581418044
+				723261714832818198
 			]
 		},
 		"polls": {
@@ -289,7 +299,7 @@
 				"rule-violation-polls"
 			],
 			"message_ids": [
-				720768893433544835
+				723261735498416138
 			]
 		},
 		"precedence": {
@@ -312,7 +322,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				720768868523573263
+				723261692427108493
 			]
 		},
 		"proposals": {
@@ -328,19 +338,19 @@
 				"editing-proposals"
 			],
 			"message_ids": [
-				720768850169299095
+				723261691739111594
 			]
 		},
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n* cannot be traded.\n\nThe below list of quantities has no effect on the game. Any existing quantity that is not in the list may be added, along with an optional short description.\n\nList of quantities:\n* **fuel**\n* **clay**: tradable, building material\n* **bricks**: tradable, instantiated at 10, building material, made from clay\n* **iron_ore**: found in mines\n* **iron**: tradable, made from smelting iron_ore\n* **iron_plates**: tradable, crafted with iron\n* **mines**: untradeable. Tracks the number of Mines a player has built.\n* **furnaces**: untradeable. Tracks the number of Furnaces a player has built.\n* **very_expensive_temples**: untradeable. Tracks the number of Very Expensive Temples a player has built.",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n* cannot be traded.\n\nThe below list of quantities has no effect on the game. Any existing quantity that is not in the list may be added, along with an optional short description.\n\nList of quantities:\n* **fuel**\n* **clay**: tradable, building material\n* **bricks**: tradable, instantiated at 10, building material, made from clay\n* **iron_ore**: found in mines\n* **iron**: tradable, made from smelting iron_ore\n* **iron_plates**: tradable, crafted with iron\n* **mines**: untradeable. Tracks the number of Mines a player has built.\n* **furnaces**: untradeable. Tracks the number of Furnaces a player has built.\n* **very_expensive_temples**: untradeable. Tracks the number of Very Expensive Temples a player has built.\n* **auto-anvils**: untradeable. Tracks the number of Auto-anvils a player has built.",
 			"parent_tag": "root",
 			"child_tags": [
 				"trade"
 			],
 			"message_ids": [
-				723255427256811630
+				723261799335460944
 			]
 		},
 		"root": {
@@ -352,12 +362,13 @@
 				"meta-rules",
 				"channels",
 				"quantities",
-				"winning"
+				"winning",
+				"oats-bad"
 			],
 			"message_ids": [
-				723255429630525480,
-				723255448106696730,
-				723255449108873216
+				723261802145644606,
+				723261821385048124,
+				723261822144217159
 			]
 		},
 		"rule-violation-polls": {
@@ -367,7 +378,7 @@
 			"parent_tag": "polls",
 			"child_tags": [],
 			"message_ids": [
-				720768912140271617
+				723261736500592740
 			]
 		},
 		"rule-violations": {
@@ -387,7 +398,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				720768892745678898
+				723261734286262343
 			]
 		},
 		"style-conventions": {
@@ -422,7 +433,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				723255428011524156
+				723261800082309231
 			]
 		},
 		"transactions": {
@@ -432,7 +443,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				720768912890789959
+				723261737293316127
 			]
 		},
 		"vet": {
@@ -442,7 +453,7 @@
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
-				723254813923737670
+				723261780562018355
 			]
 		},
 		"voting-on-proposals": {
@@ -452,7 +463,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				720768871195475998
+				723261712999907361
 			]
 		},
 		"winning": {
@@ -462,7 +473,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				723255428959436850
+				723261800770044026
 			]
 		}
 	}
