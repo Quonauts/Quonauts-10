@@ -129,7 +129,7 @@ Add a new rule section within "Buildings" named "Auto-anvil":
 
 <a name='15'/>
 
-## #15
+## #15 — Failed
 
 GAME OVER
 [RETRY] [QUIT]
