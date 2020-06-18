@@ -216,3 +216,11 @@ Create the following quantities:
 
 BEES!!!,
 
+<a name='27'/>
+
+## #27
+
+This proposal depends on Proposal #24.
+Replace all occurences of "iron" in %vet with "iron_plates".
+```//iron is not a building material```
+
