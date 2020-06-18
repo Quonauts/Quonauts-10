@@ -170,7 +170,7 @@ Procedure Sigma is to be enacted within ███ hours.
 
 <a name='21'/>
 
-## #21
+## #21 — Failed
 
 This server is dead rip
 
