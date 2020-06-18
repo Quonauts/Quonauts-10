@@ -224,3 +224,10 @@ This proposal depends on Proposal #24.
 Replace all occurences of "iron" in %vet with "iron_plates".
 ```//iron is not a building material```
 
+<a name='28'/>
+
+## #28
+
+Add a new rule "Iron" (%iron) under %building-materials:
+> Iron is a building material.
+
