@@ -366,6 +366,7 @@ List of quantities:
 * **mines**: untradeable. Tracks the number of Mines a player has built.
 * **furnaces**: untradeable. Tracks the number of Furnaces a player has built.
 * **very_expensive_temples**: untradeable. Tracks the number of Very Expensive Temples a player has built.
+* **auto-anvils**: untradeable. Tracks the number of Auto-anvils a player has built.
 
 ### <a name='trade'/> Trade
 
