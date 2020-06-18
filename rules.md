@@ -42,6 +42,7 @@
 * [**3. Quantities**](#quantities)
     * [**3.1. Trade**](#trade)
 * [**4. Winning**](#winning)
+* [**5. Oats bad**](#oats-bad)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -381,4 +382,8 @@ After a pair of matching announcements have been made, the players' quantities a
 When a player activates a Very Expensive Temple they own, that player wins.
 
 When one or more players have won, the game ends.
+
+## <a name='oats-bad'/> Oats bad
+
+no oats
 
