@@ -38,6 +38,7 @@
             * [**2.6.2.1. Mine**](#mine)
             * [**2.6.2.2. Furnace**](#furnace)
             * [**2.6.2.3. Very Expensive Temple**](#vet)
+            * [**2.6.2.4. Auto-anvil**](#auto-anvil)
 * [**3. Quantities**](#quantities)
     * [**3.1. Trade**](#trade)
 * [**4. Winning**](#winning)
@@ -330,6 +331,15 @@ If a furnace is in use and at least 15 minutes have passed since they last did s
 ##### <a name='vet'/> Very Expensive Temple
 
 The Very Expensive Temple cannot be built.
+
+##### <a name='auto-anvil'/> Auto-anvil
+
+Required building materials: 5 bricks, 7 iron
+
+Power cost: 30 fuel/operation
+
+If at least 15 minutes have passed since they last did so, the owner of that auto-anvil may:
+change 2 iron into 1 iron_plate
 
 ## <a name='quantities'/> Quantities
 
