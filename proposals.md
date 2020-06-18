@@ -136,7 +136,7 @@ GAME OVER
 
 <a name='16'/>
 
-## #16
+## #16 — Failed
 
 The player <@364562317645709336> dies and becomes a ghost.
 
