@@ -76,7 +76,7 @@ with:
 
 <a name='10'/>
 
-## #10
+## #10 — Failed
 
 Add new quantities named `mines` and `furnaces`.
 These exist simply to keep track of the corresponding buildings each player has.
