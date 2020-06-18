@@ -11,6 +11,16 @@
 				720768805265080341
 			]
 		},
+		"auto-anvil": {
+			"tag": "auto-anvil",
+			"title": "Auto-anvil",
+			"content": "Required building materials: 5 bricks, 7 iron\n\nPower cost: 30 fuel/operation\n\nIf at least 15 minutes have passed since they last did so, the owner of that auto-anvil may:\nchange 2 iron into 1 iron_plate",
+			"parent_tag": "buildings",
+			"child_tags": [],
+			"message_ids": [
+				723255426350579752
+			]
+		},
 		"bots": {
 			"tag": "bots",
 			"title": "Bots",
@@ -38,7 +48,8 @@
 			"parent_tag": "factories",
 			"child_tags": [
 				"clay",
-				"bricks"
+				"bricks",
+				"iron-plates"
 			],
 			"message_ids": [
 				720768914660917319
@@ -52,10 +63,11 @@
 			"child_tags": [
 				"mine",
 				"furnace",
-				"vet"
+				"vet",
+				"auto-anvil"
 			],
 			"message_ids": [
-				720768934646775875
+				723254810555449414
 			]
 		},
 		"channels": {
@@ -177,7 +189,7 @@
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
-				720768935737294961
+				723254812615114913
 			]
 		},
 		"general": {
@@ -208,6 +220,16 @@
 			"child_tags": [],
 			"message_ids": [
 				720768828295872532
+			]
+		},
+		"iron-plates": {
+			"tag": "iron-plates",
+			"title": "Iron Plates",
+			"content": "Iron Plates are a building material.",
+			"parent_tag": "building-materials",
+			"child_tags": [],
+			"message_ids": [
+				723254808730927216
 			]
 		},
 		"lists": {
@@ -245,7 +267,7 @@
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
-				720768935422591157
+				723254811482652743
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -312,13 +334,13 @@
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n* cannot be traded.\n\nThe below list of quantities has no effect on the game. Any existing quantity that is not in the list may be added, along with an optional short description.\n\nList of quantities:\n* **fuel**\n* **clay**: tradable, building material\n* **bricks**: tradable, instantiated at 10, building material, made from clay\n* **iron_ore**: found in mines\n* **iron**: tradable, made from smelting iron_ore\n* **mines**: untradeable. Tracks the number of Mines a player has built.\n* **furnaces**: untradeable. Tracks the number of Furnaces a player has built.\n* **very_expensive_temples**: untradeable. Tracks the number of Very Expensive Temples a player has built.",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n* cannot be traded.\n\nThe below list of quantities has no effect on the game. Any existing quantity that is not in the list may be added, along with an optional short description.\n\nList of quantities:\n* **fuel**\n* **clay**: tradable, building material\n* **bricks**: tradable, instantiated at 10, building material, made from clay\n* **iron_ore**: found in mines\n* **iron**: tradable, made from smelting iron_ore\n* **iron_plates**: tradable, crafted with iron\n* **mines**: untradeable. Tracks the number of Mines a player has built.\n* **furnaces**: untradeable. Tracks the number of Furnaces a player has built.\n* **very_expensive_temples**: untradeable. Tracks the number of Very Expensive Temples a player has built.",
 			"parent_tag": "root",
 			"child_tags": [
 				"trade"
 			],
 			"message_ids": [
-				720768955723284590
+				723255427256811630
 			]
 		},
 		"root": {
@@ -333,9 +355,9 @@
 				"winning"
 			],
 			"message_ids": [
-				720768957484892211,
-				720768958567022602,
-				720768977042800732
+				723255429630525480,
+				723255448106696730,
+				723255449108873216
 			]
 		},
 		"rule-violation-polls": {
@@ -400,7 +422,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				720768956381659146
+				723255428011524156
 			]
 		},
 		"transactions": {
@@ -420,7 +442,7 @@
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
-				720768936521629768
+				723254813923737670
 			]
 		},
 		"voting-on-proposals": {
@@ -440,7 +462,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				720768957098885251
+				723255428959436850
 			]
 		}
 	}

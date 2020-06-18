@@ -74,6 +74,14 @@
 		},
 		"default_value": 0
 	},
+	"iron_plates": {
+		"name": "iron_plates",
+		"aliases": [
+			"iron_plate"
+		],
+		"players": {},
+		"default_value": 0
+	},
 	"mines": {
 		"name": "mines",
 		"aliases": [

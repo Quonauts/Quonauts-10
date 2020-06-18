@@ -86,7 +86,7 @@
 			"n": 7,
 			"author": 421060058009305088,
 			"content": "Add a new rule %lol: if the term \"quantity\" is in the rules, change it to \"quality\", unless it is in %lol.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 720704855450058852,
 			"votes": {
 				"151149148639330304": -1,
@@ -131,7 +131,7 @@
 			"n": 10,
 			"author": 160279332454006795,
 			"content": "Add new quantities named `mines` and `furnaces`.\nThese exist simply to keep track of the corresponding buildings each player has.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 720715098343079972,
 			"votes": {
 				"151149148639330304": -1,
@@ -192,7 +192,7 @@
 			"n": 14,
 			"author": 160279332454006795,
 			"content": "Add a new rule section within \"Building Materials\" named \"Iron Plates\":\n> Iron Plates are a building material.\nAdd a new quantity named \"iron_plates\".\nAdd a new rule section within \"Buildings\" named \"Auto-anvil\":\n> Required building materials: 5 bricks, 7 iron\n> \n> Power cost: 30 fuel/operation\n> \n> If at least 15 minutes have passed since they last did so, the owner of that auto-anvil may:\n> change 2 iron into 1 iron_plate",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 720941114139607052,
 			"votes": {
 				"151149148639330304": 1,
@@ -207,7 +207,7 @@
 			"n": 15,
 			"author": 421060058009305088,
 			"content": "GAME OVER\n[RETRY] [QUIT]",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 721014065043865620,
 			"votes": {
 				"151149148639330304": -1,
@@ -223,7 +223,7 @@
 			"n": 16,
 			"author": 364562317645709336,
 			"content": "The player <@364562317645709336> dies and becomes a ghost.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 721126177334362204,
 			"votes": {
 				"151149148639330304": -1,
@@ -239,7 +239,7 @@
 			"n": 17,
 			"author": 421060058009305088,
 			"content": "Everyone loses. The game does not end.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 721366612778680400,
 			"votes": {
 				"151149148639330304": -1,
@@ -256,6 +256,7 @@
 			"status": "voting",
 			"message_id": 721490931903234098,
 			"votes": {
+				"151149148639330304": 0,
 				"160279332454006795": 1,
 				"309787486278909952": 0,
 				"421060058009305088": -1,
@@ -267,7 +268,7 @@
 			"n": 19,
 			"author": 421060058009305088,
 			"content": "heavpoot must heave the pot",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 721497380414947349,
 			"votes": {
 				"151149148639330304": -1,
@@ -296,7 +297,7 @@
 			"n": 21,
 			"author": 421060058009305088,
 			"content": "This server is dead rip",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 721878843874476173,
 			"votes": {
 				"151149148639330304": 0,
@@ -314,6 +315,7 @@
 			"status": "voting",
 			"message_id": 722060717263683675,
 			"votes": {
+				"151149148639330304": 1,
 				"160279332454006795": 0,
 				"258639553357676545": 1,
 				"309787486278909952": -1
@@ -324,9 +326,10 @@
 			"n": 23,
 			"author": 160279332454006795,
 			"content": "Precisely 3 people will be for this, 1 against, and 2 abstain, eventually.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 722445978098991145,
 			"votes": {
+				"151149148639330304": -1,
 				"160279332454006795": 1,
 				"258639553357676545": 1,
 				"309787486278909952": 0,
@@ -343,6 +346,7 @@
 			"status": "voting",
 			"message_id": 722907224690786406,
 			"votes": {
+				"151149148639330304": 1,
 				"258639553357676545": 1,
 				"309787486278909952": 0,
 				"421060058009305088": 1
@@ -356,6 +360,7 @@
 			"status": "voting",
 			"message_id": 722909482006609960,
 			"votes": {
+				"151149148639330304": -1,
 				"309787486278909952": 0,
 				"421060058009305088": -1
 			},
