@@ -45,7 +45,7 @@ Give all active players 50 clay.
 
 <a name='7'/>
 
-## #7
+## #7 — Failed
 
 Add a new rule %lol: if the term "quantity" is in the rules, change it to "quality", unless it is in %lol.
 
