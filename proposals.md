@@ -114,7 +114,7 @@ Delete %test immediately after creation.
 
 <a name='14'/>
 
-## #14
+## #14 — Passed
 
 Add a new rule section within "Building Materials" named "Iron Plates":
 > Iron Plates are a building material.
