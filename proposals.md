@@ -176,7 +176,7 @@ This server is dead rip
 
 <a name='22'/>
 
-## #22
+## #22 — Passed
 
 Add a new rule %oats-bad:
 no oats
