@@ -348,7 +348,7 @@
 			"votes": {
 				"151149148639330304": 1,
 				"258639553357676545": 1,
-				"309787486278909952": 0,
+				"309787486278909952": -1,
 				"421060058009305088": 1
 			},
 			"timestamp": 1592421314
@@ -382,9 +382,34 @@
 			"status": "voting",
 			"message_id": 723256565502836777,
 			"votes": {
-				"151149148639330304": 1
+				"151149148639330304": 1,
+				"309787486278909952": -1
 			},
 			"timestamp": 1592504604
+		},
+		{
+			"n": 28,
+			"author": 151149148639330304,
+			"content": "Add a new rule \"Iron\" (%iron) under %building-materials:\n> Iron is a building material.",
+			"status": "voting",
+			"message_id": 723264044777209856,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": -1
+			},
+			"timestamp": 1592506388
+		},
+		{
+			"n": 29,
+			"author": 151149148639330304,
+			"content": "Add a new tradeable quantity \"dogecoin\" (aliases \"DOGE\" and \"\u00d0\").\nAdd a new rule \"Dogecoin\" (%dogecoin) under %quantities:\n> At any time, a player may give themselves any number of dogecoin.",
+			"status": "voting",
+			"message_id": 723265903927623781,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": -1
+			},
+			"timestamp": 1592506831
 		}
 	]
 }
