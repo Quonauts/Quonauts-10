@@ -231,3 +231,11 @@ Replace all occurences of "iron" in %vet with "iron_plates".
 Add a new rule "Iron" (%iron) under %building-materials:
 > Iron is a building material.
 
+<a name='29'/>
+
+## #29
+
+Add a new tradeable quantity "dogecoin" (aliases "DOGE" and "Ð").
+Add a new rule "Dogecoin" (%dogecoin) under %quantities:
+> At any time, a player may give themselves any number of dogecoin.
+
