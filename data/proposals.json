@@ -372,7 +372,9 @@
 			"content": "BEES!!!,",
 			"status": "voting",
 			"message_id": 722952265673211914,
-			"votes": {},
+			"votes": {
+				"427589146295664667": -1
+			},
 			"timestamp": 1592432053
 		},
 		{
