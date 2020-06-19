@@ -98,7 +98,7 @@ For each type of building, for each player, set that player's quantity correspon
 
 <a name='12'/>
 
-## #12
+## #12 — Passed
 
 bees are to be deployed IMMEDIATELY.
 
