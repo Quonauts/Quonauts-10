@@ -358,8 +358,9 @@ By default any unique quantity added to the game:
 The below list of quantities has no effect on the game. Any existing quantity that is not in the list may be added, along with an optional short description.
 
 List of quantities:
+• dogecoin: tradeable. crypto-currency.
 • fuel
-• clay: tradable, building material
+• clay: tradeable, building material
 • bricks: tradable, instantiated at 10, building material, made from clay
 • iron_ore: found in mines
 • iron: tradable, made from smelting iron_ore
