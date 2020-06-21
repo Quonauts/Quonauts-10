@@ -233,7 +233,7 @@ Add a new rule "Iron" (%iron) under %building-materials:
 
 <a name='29'/>
 
-## #29
+## #29 — Passed
 
 Add a new tradeable quantity "dogecoin" (aliases "DOGE" and "Ð").
 Add a new rule "Dogecoin" (%dogecoin) under %quantities:
