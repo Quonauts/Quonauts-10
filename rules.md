@@ -349,25 +349,25 @@ A quantity is a named property with a numerical value for each player.
 
 By default any unique quantity added to the game:
 
-* applies to all players.
-* is instantiated at zero.
-* must be an integer.
-* must never have a negative value.
-* cannot be traded.
+• applies to all players.
+• is instantiated at zero.
+• must be an integer.
+• must never have a negative value.
+• cannot be traded.
 
 The below list of quantities has no effect on the game. Any existing quantity that is not in the list may be added, along with an optional short description.
 
 List of quantities:
-* **fuel**
-* **clay**: tradable, building material
-* **bricks**: tradable, instantiated at 10, building material, made from clay
-* **iron_ore**: found in mines
-* **iron**: tradable, made from smelting iron_ore
-* **iron_plates**: tradable, crafted with iron
-* **mines**: untradeable. Tracks the number of Mines a player has built.
-* **furnaces**: untradeable. Tracks the number of Furnaces a player has built.
-* **very_expensive_temples**: untradeable. Tracks the number of Very Expensive Temples a player has built.
-* **auto-anvils**: untradeable. Tracks the number of Auto-anvils a player has built.
+• fuel
+• clay: tradable, building material
+• bricks: tradable, instantiated at 10, building material, made from clay
+• iron_ore: found in mines
+• iron: tradable, made from smelting iron_ore
+• iron_plates: tradable, crafted with iron
+• mines: untradeable. Tracks the number of Mines a player has built.
+• furnaces: untradeable. Tracks the number of Furnaces a player has built.
+• very_expensive_temples: untradeable. Tracks the number of Very Expensive Temples a player has built.
+• auto-anvils: untradeable. Tracks the number of Auto-anvils a player has built.
 
 ### <a name='trade'/> Trade
 
