@@ -411,7 +411,7 @@
 			"n": 29,
 			"author": 151149148639330304,
 			"content": "Add a new tradeable quantity \"dogecoin\" (aliases \"DOGE\" and \"\u00d0\").\nAdd a new rule \"Dogecoin\" (%dogecoin) under %quantities:\n> At any time, a player may give themselves any number of dogecoin.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 723265903927623781,
 			"votes": {
 				"151149148639330304": 1,

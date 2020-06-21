@@ -149,6 +149,16 @@
 				723261712064708638
 			]
 		},
+		"dogecoin": {
+			"tag": "dogecoin",
+			"title": "Dogecoin",
+			"content": "At any time, a player may give themselves any number of dogecoin.",
+			"parent_tag": "quantities",
+			"child_tags": [],
+			"message_ids": [
+				724076055945674876
+			]
+		},
 		"editing-proposals": {
 			"tag": "editing-proposals",
 			"title": "Editing proposals",
@@ -277,7 +287,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				723261801269297257
+				724076057648562207
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -344,10 +354,11 @@
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n* cannot be traded.\n\nThe below list of quantities has no effect on the game. Any existing quantity that is not in the list may be added, along with an optional short description.\n\nList of quantities:\n* **fuel**\n* **clay**: tradable, building material\n* **bricks**: tradable, instantiated at 10, building material, made from clay\n* **iron_ore**: found in mines\n* **iron**: tradable, made from smelting iron_ore\n* **iron_plates**: tradable, crafted with iron\n* **mines**: untradeable. Tracks the number of Mines a player has built.\n* **furnaces**: untradeable. Tracks the number of Furnaces a player has built.\n* **very_expensive_temples**: untradeable. Tracks the number of Very Expensive Temples a player has built.\n* **auto-anvils**: untradeable. Tracks the number of Auto-anvils a player has built.",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n\u2022 applies to all players.\n\u2022 is instantiated at zero.\n\u2022 must be an integer.\n\u2022 must never have a negative value.\n\u2022 cannot be traded.\n\nThe below list of quantities has no effect on the game. Any existing quantity that is not in the list may be added, along with an optional short description.\n\nList of quantities:\n\u2022 dogecoin: tradeable. crypto-currency.\n\u2022 fuel\n\u2022 clay: tradeable, building material\n\u2022 bricks: tradable, instantiated at 10, building material, made from clay\n\u2022 iron_ore: found in mines\n\u2022 iron: tradable, made from smelting iron_ore\n\u2022 iron_plates: tradable, crafted with iron\n\u2022 mines: untradeable. Tracks the number of Mines a player has built.\n\u2022 furnaces: untradeable. Tracks the number of Furnaces a player has built.\n\u2022 very_expensive_temples: untradeable. Tracks the number of Very Expensive Temples a player has built.\n\u2022 auto-anvils: untradeable. Tracks the number of Auto-anvils a player has built.",
 			"parent_tag": "root",
 			"child_tags": [
-				"trade"
+				"trade",
+				"dogecoin"
 			],
 			"message_ids": [
 				723261799335460944
@@ -366,9 +377,9 @@
 				"oats-bad"
 			],
 			"message_ids": [
-				723261802145644606,
-				723261821385048124,
-				723261822144217159
+				724076058562789457,
+				724076059334541333,
+				724076078049525760
 			]
 		},
 		"rule-violation-polls": {
@@ -473,7 +484,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				723261800770044026
+				724076056927010935
 			]
 		}
 	}

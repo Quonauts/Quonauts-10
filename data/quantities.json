@@ -36,6 +36,14 @@
 		},
 		"default_value": 0
 	},
+	"dogecoin": {
+		"name": "dogecoin",
+		"aliases": [
+			"doge"
+		],
+		"players": {},
+		"default_value": 0
+	},
 	"fuel": {
 		"name": "fuel",
 		"aliases": [],
