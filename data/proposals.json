@@ -343,7 +343,7 @@
 			"n": 24,
 			"author": 364562317645709336,
 			"content": "Replace the contents of %vet with the following:\n> Required building materials: 176 bricks, 50 iron, 200 honeycomb\n> \n> Activation cost (action \"activate\"): 100 bee souls\n\nbees",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 722907224690786406,
 			"votes": {
 				"151149148639330304": 1,
@@ -373,7 +373,7 @@
 			"n": 26,
 			"author": 421060058009305088,
 			"content": "BEES!!!,",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 722952265673211914,
 			"votes": {
 				"160279332454006795": 1,

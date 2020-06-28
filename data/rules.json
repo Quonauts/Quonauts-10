@@ -460,7 +460,7 @@
 		"vet": {
 			"tag": "vet",
 			"title": "Very Expensive Temple",
-			"content": "The Very Expensive Temple cannot be built.",
+			"content": "Required building materials: 176 bricks, 50 iron, 200 honeycomb\n\nActivation cost (action \"activate\"): 100 bee souls",
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
