@@ -332,7 +332,9 @@ If a furnace is in use and at least 15 minutes have passed since they last did s
 
 ##### <a name='vet'/> Very Expensive Temple
 
-The Very Expensive Temple cannot be built.
+Required building materials: 176 bricks, 50 iron, 200 honeycomb
+
+Activation cost (action "activate"): 100 bee souls
 
 ##### <a name='auto-anvil'/> Auto-anvil
 
