@@ -189,7 +189,7 @@ Precisely 3 people will be for this, 1 against, and 2 abstain, eventually.
 
 <a name='24'/>
 
-## #24
+## #24 — Passed
 
 Replace the contents of %vet with the following:
 > Required building materials: 176 bricks, 50 iron, 200 honeycomb
