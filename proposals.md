@@ -200,7 +200,7 @@ bees
 
 <a name='25'/>
 
-## #25
+## #25 — Passed
 
 Create the following quantities:
 **beehives**: tradeable
