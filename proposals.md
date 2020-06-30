@@ -245,3 +245,39 @@ Add a new rule "Dogecoin" (%dogecoin) under %quantities:
 
 Go to hell, <@!549449251822764043>
 
+<a name='31'/>
+
+## #31
+
+***Rebalance!!***
+
+Revert the following parts of the game state:
+- Rules
+- Quantities
+- Factories
+to their state at the beginning of the game.
+
+Carry out the effects of proposals 3, 4, and 11.
+
+Edit %bricks:
+> Bricks are a building material. A player may spend 4 clay to create one bricks.
+> 
+> Players begin the game with 40 bricks.
+
+Edit %mine:
+> Required building materials: 40 bricks
+> 
+> If at least 8 hours have passed since they last did so, the owner of a mine may roll a 3-sided die, and carry out the effects as specified:
+> 
+> * 1: gain 40 clay
+> * 2: gain 100 fuel
+> * 3: gain 20 iron_ore
+
+Edit %furnace:
+> Required building materials: 5 clay, 5 bricks
+> 
+> If at least have 30 minutes has passed since they last did so, the owner of a furnace may (at a power cost of 20 fuel/operation):
+> 
+> * change two of any quantity ending in "_ore" into one of the equivalent quantity that does not end with "_ore".
+> * change 2 clay into 1 bricks.
+
