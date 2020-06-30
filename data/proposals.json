@@ -253,7 +253,7 @@
 			"n": 18,
 			"author": 160279332454006795,
 			"content": "Create a new rule section named enough is enough:\n> seriously? you complain about the game being dead then actively kill it.\n> if you dont want to play the game, please just dont play\n> if you do want to play the game, make it better than it is or dont propose at all instead of just proposing silly things\n> this has gone on for too long, enough is enough, please stop with the nonsense proposals",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 721490931903234098,
 			"votes": {
 				"151149148639330304": 0,
@@ -289,7 +289,8 @@
 				"151149148639330304": -1,
 				"160279332454006795": 0,
 				"258639553357676545": 1,
-				"421060058009305088": 1
+				"421060058009305088": 1,
+				"427589146295664667": -1
 			},
 			"timestamp": 1592161836
 		},
@@ -358,14 +359,15 @@
 			"n": 25,
 			"author": 364562317645709336,
 			"content": "Create the following quantities:\n**beehives**: tradeable\n**fakehives**: tradeable\n**bee_colonies**: untradable by default, gained by placing beehives\n**bee_souls**: untradeable, gained after sacrificing colonies to the apiform gods\n**honey**: tradeable, gained with bee colonies\n**honeycomb**: tradeable, obtained by destroying beehives, from fakehives, or from honey",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 722909482006609960,
 			"votes": {
 				"151149148639330304": 0,
 				"160279332454006795": 1,
 				"309787486278909952": 0,
 				"364562317645709336": 1,
-				"421060058009305088": -1
+				"421060058009305088": -1,
+				"427589146295664667": 1
 			},
 			"timestamp": 1592421852
 		},
@@ -388,13 +390,14 @@
 			"n": 27,
 			"author": 151149148639330304,
 			"content": "This proposal depends on Proposal #24.\nReplace all occurences of \"iron\" in %vet with \"iron_plates\".\n```//iron is not a building material```",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 723256565502836777,
 			"votes": {
 				"151149148639330304": 1,
 				"258639553357676545": -1,
 				"309787486278909952": -1,
-				"364562317645709336": 0
+				"364562317645709336": 0,
+				"427589146295664667": 1
 			},
 			"timestamp": 1592504604
 		},
@@ -408,7 +411,8 @@
 				"151149148639330304": 1,
 				"160279332454006795": 0,
 				"309787486278909952": -1,
-				"364562317645709336": -1
+				"364562317645709336": -1,
+				"427589146295664667": -1
 			},
 			"timestamp": 1592506388
 		},
