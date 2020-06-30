@@ -148,7 +148,7 @@ Everyone loses. The game does not end.
 
 <a name='18'/>
 
-## #18
+## #18 — Passed
 
 Create a new rule section named enough is enough:
 > seriously? you complain about the game being dead then actively kill it.
