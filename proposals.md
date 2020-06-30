@@ -313,3 +313,9 @@ with:
 
 > A player may destroy any building they own, removing it from their factory, by announcing "Destroyed (name of building)" in <#720657721371918397>.
 
+<a name='36'/>
+
+## #36
+
+Delete proposal #36
+
