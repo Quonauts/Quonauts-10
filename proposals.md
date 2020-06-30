@@ -290,3 +290,15 @@ Remove
 > A player may destroy any building that is not in use, removing it from their factory, by announcing "Destroyed (name of building)" in <#720657721371918397>.
 ("in use" is no longer defined in the current ruleset, and there's nothing gained by destroying buildings)
 
+<a name='33'/>
+
+## #33
+
+Edit %buildings:
+Change
+> Buildings may have a power cost in fuel. If so, all operations using this building, unless otherwise specified, consume the specified amount of fuel to take place, and cannot take place if this requirement is not met. Buildings may also declare different power costs per operation.
+to
+> Buildings may have a power cost in fuel. If so, all operations using this building, unless otherwise specified, consume the specified amount of fuel to take place, and cannot take place if this requirement is not met. Buildings may also declare different power costs per operation.
+> 
+> A player may queue a series of operations by announcing the order in which they will be taken in <#720657721371918397>. Provided they have the fuel needed to cover the power cost, after sufficient time has elapsed for the next action in the queue to be carried out, it occurs automatically, without the need for any player's intervention. A player may cancel their queue, discarding all actions until more are added. If there is insufficient fuel to cover the next action in a player's queue, their queue is cancelled.
+
