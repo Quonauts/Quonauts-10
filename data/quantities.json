@@ -9,6 +9,30 @@
 		},
 		"default_value": 0
 	},
+	"bee_colonies": {
+		"name": "bee_colonies",
+		"aliases": [
+			"bee_colony"
+		],
+		"players": {},
+		"default_value": 0
+	},
+	"bee_souls": {
+		"name": "bee_souls",
+		"aliases": [
+			"bee_soul"
+		],
+		"players": {},
+		"default_value": 0
+	},
+	"beehives": {
+		"name": "beehives",
+		"aliases": [
+			"beehive"
+		],
+		"players": {},
+		"default_value": 0
+	},
 	"bricks": {
 		"name": "bricks",
 		"aliases": [
@@ -49,6 +73,14 @@
 		},
 		"default_value": 0
 	},
+	"fakehives": {
+		"name": "fakehives",
+		"aliases": [
+			"fakehive"
+		],
+		"players": {},
+		"default_value": 0
+	},
 	"fuel": {
 		"name": "fuel",
 		"aliases": [],
@@ -72,6 +104,18 @@
 			"258639553357676545": 2,
 			"309787486278909952": 4
 		},
+		"default_value": 0
+	},
+	"honey": {
+		"name": "honey",
+		"aliases": [],
+		"players": {},
+		"default_value": 0
+	},
+	"honeycomb": {
+		"name": "honeycomb",
+		"aliases": [],
+		"players": {},
 		"default_value": 0
 	},
 	"iron": {
