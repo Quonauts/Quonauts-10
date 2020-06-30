@@ -257,7 +257,7 @@ Revert the following parts of the game state:
 - Factories
 to their state at the beginning of the game.
 
-Carry out the effects of proposals 3, 4, and 11.
+Carry out the effects of proposals 3, 4, 11, and (god why) 29.
 
 Edit %bricks:
 > Bricks are a building material. A player may spend 4 clay to create one bricks.
