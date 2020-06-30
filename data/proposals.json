@@ -506,6 +506,15 @@
 				"309787486278909952": 1
 			},
 			"timestamp": 1593546831
+		},
+		{
+			"n": 36,
+			"author": 421060058009305088,
+			"content": "Delete proposal #36",
+			"status": "voting",
+			"message_id": 727653939000115320,
+			"votes": {},
+			"timestamp": 1593553024
 		}
 	]
 }
