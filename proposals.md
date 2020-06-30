@@ -239,3 +239,9 @@ Add a new tradeable quantity "dogecoin" (aliases "DOGE" and "Ð").
 Add a new rule "Dogecoin" (%dogecoin) under %quantities:
 > At any time, a player may give themselves any number of dogecoin.
 
+<a name='30'/>
+
+## #30
+
+Go to hell, <@!549449251822764043>
+
