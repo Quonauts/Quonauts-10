@@ -311,3 +311,15 @@ Replace the following in %buildings:
 with:
 > A player may destroy any building, removing it from their factory, by announcing "Destroyed (name of building)" in <#720657721371918397>.
 
+<a name='35'/>
+
+## #35
+
+Replace the following in %buildings:
+
+> A player may destroy any building that is not in use, removing it from their factory, by announcing "Destroyed (name of building)" in <#720657721371918397>.
+
+with:
+
+> A player may destroy any building they own, removing it from their factory, by announcing "Destroyed (name of building)" in <#720657721371918397>.
+
