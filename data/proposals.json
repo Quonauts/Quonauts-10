@@ -443,9 +443,43 @@
 			"message_id": 727582314540040254,
 			"votes": {
 				"151149148639330304": -1,
+				"309787486278909952": 0,
 				"311467257643532288": -1
 			},
 			"timestamp": 1593535947
+		},
+		{
+			"n": 31,
+			"author": 309787486278909952,
+			"content": "***Rebalance!!***\n\nRevert the following parts of the game state:\n- Rules\n- Quantities\n- Factories\nto their state at the beginning of the game.\n\nCarry out the effects of proposals 3, 4, and 11.\n\nEdit %bricks:\n> Bricks are a building material. A player may spend 4 clay to create one bricks.\n> \n> Players begin the game with 40 bricks.\n\nEdit %mine:\n> Required building materials: 40 bricks\n> \n> If at least 8 hours have passed since they last did so, the owner of a mine may roll a 3-sided die, and carry out the effects as specified:\n> \n> * 1: gain 40 clay\n> * 2: gain 100 fuel\n> * 3: gain 20 iron_ore\n\nEdit %furnace:\n> Required building materials: 5 clay, 5 bricks\n> \n> If at least have 30 minutes has passed since they last did so, the owner of a furnace may (at a power cost of 20 fuel/operation):\n> \n> * change two of any quantity ending in \"_ore\" into one of the equivalent quantity that does not end with \"_ore\".\n> * change 2 clay into 1 bricks.",
+			"status": "voting",
+			"message_id": 727608600586879091,
+			"votes": {
+				"309787486278909952": 1
+			},
+			"timestamp": 1593542214
+		},
+		{
+			"n": 32,
+			"author": 309787486278909952,
+			"content": "Edit %buildings:\nRemove\n> A player may destroy any building that is not in use, removing it from their factory, by announcing \"Destroyed (name of building)\" in <#720657721371918397>.\n(\"in use\" is no longer defined in the current ruleset, and there's nothing gained by destroying buildings)",
+			"status": "voting",
+			"message_id": 727609084022620230,
+			"votes": {
+				"309787486278909952": 1
+			},
+			"timestamp": 1593542329
+		},
+		{
+			"n": 33,
+			"author": 309787486278909952,
+			"content": "Edit %buildings:\nChange\n> Buildings may have a power cost in fuel. If so, all operations using this building, unless otherwise specified, consume the specified amount of fuel to take place, and cannot take place if this requirement is not met. Buildings may also declare different power costs per operation.\nto\n> Buildings may have a power cost in fuel. If so, all operations using this building, unless otherwise specified, consume the specified amount of fuel to take place, and cannot take place if this requirement is not met. Buildings may also declare different power costs per operation.\n> \n> A player may queue a series of operations by announcing the order in which they will be taken in <#720657721371918397>. Provided they have the fuel needed to cover the power cost, after sufficient time has elapsed for the next action in the queue to be carried out, it occurs automatically, without the need for any player's intervention. A player may cancel their queue, discarding all actions until more are added. If there is insufficient fuel to cover the next action in a player's queue, their queue is cancelled.",
+			"status": "voting",
+			"message_id": 727610058619224084,
+			"votes": {
+				"309787486278909952": 1
+			},
+			"timestamp": 1593542561
 		}
 	]
 }
