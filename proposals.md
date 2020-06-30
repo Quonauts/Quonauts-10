@@ -302,3 +302,12 @@ to
 > 
 > A player may queue a series of operations by announcing the order in which they will be taken in <#720657721371918397>. Provided they have the fuel needed to cover the power cost, after sufficient time has elapsed for the next action in the queue to be carried out, it occurs automatically, without the need for any player's intervention. A player may cancel their queue, discarding all actions until more are added. If there is insufficient fuel to cover the next action in a player's queue, their queue is cancelled.
 
+<a name='34'/>
+
+## #34
+
+Replace the following in %buildings:
+> A player may destroy any building that is not in use, removing it from their factory, by announcing "Destroyed (name of building)" in <#720657721371918397>.
+with:
+> A player may destroy any building, removing it from their factory, by announcing "Destroyed (name of building)" in <#720657721371918397>.
+
