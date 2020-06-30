@@ -283,12 +283,7 @@ Edit %furnace:
 
 <a name='32'/>
 
-## #32
-
-Edit %buildings:
-Remove
-> A player may destroy any building that is not in use, removing it from their factory, by announcing "Destroyed (name of building)" in <#720657721371918397>.
-("in use" is no longer defined in the current ruleset, and there's nothing gained by destroying buildings)
+## #32 — Deleted
 
 <a name='33'/>
 
