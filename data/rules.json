@@ -169,6 +169,16 @@
 				723261733698928730
 			]
 		},
+		"enough-is-enough": {
+			"tag": "enough-is-enough",
+			"title": "enough is enough",
+			"content": "seriously? you complain about the game being dead then actively kill it.\nif you dont want to play the game, please just dont play\nif you do want to play the game, make it better than it is or dont propose at all instead of just proposing silly things\nthis has gone on for too long, enough is enough, please stop with the nonsense proposals",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				727549181224419398
+			]
+		},
 		"factories": {
 			"tag": "factories",
 			"title": "#factories",
@@ -374,12 +384,13 @@
 				"channels",
 				"quantities",
 				"winning",
-				"oats-bad"
+				"oats-bad",
+				"enough-is-enough"
 			],
 			"message_ids": [
-				724076058562789457,
-				724076059334541333,
-				724076078049525760
+				727549181560094792,
+				727549182860198030,
+				727549183921488042
 			]
 		},
 		"rule-violation-polls": {
