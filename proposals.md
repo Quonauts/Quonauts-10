@@ -281,3 +281,12 @@ Edit %furnace:
 > * change two of any quantity ending in "_ore" into one of the equivalent quantity that does not end with "_ore".
 > * change 2 clay into 1 bricks.
 
+<a name='32'/>
+
+## #32
+
+Edit %buildings:
+Remove
+> A player may destroy any building that is not in use, removing it from their factory, by announcing "Destroyed (name of building)" in <#720657721371918397>.
+("in use" is no longer defined in the current ruleset, and there's nothing gained by destroying buildings)
+
