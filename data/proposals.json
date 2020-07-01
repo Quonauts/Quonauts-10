@@ -515,6 +515,15 @@
 			"message_id": 727653939000115320,
 			"votes": {},
 			"timestamp": 1593553024
+		},
+		{
+			"n": 37,
+			"author": 421060058009305088,
+			"content": "Add a new rule %spanish-inquisition:\nIf all of these conditions have been met:\n- it has been at least two days since the passing of Proposal #37\n- no player has posted \"NOBODY expects the Spanish Inquisition\" in <#720025182130929775> for at least three days\n- it has been at least two days since the last time these three conditions have been met\nAll players lose the game.",
+			"status": "voting",
+			"message_id": 727691025513971733,
+			"votes": {},
+			"timestamp": 1593561866
 		}
 	]
 }
