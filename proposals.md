@@ -164,7 +164,7 @@ heavpoot must heave the pot
 
 <a name='20'/>
 
-## #20
+## #20 — Failed
 
 Procedure Sigma is to be enacted within ███ hours.
 
