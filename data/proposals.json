@@ -527,7 +527,7 @@
 			"n": 37,
 			"author": 421060058009305088,
 			"content": "Add a new rule %spanish-inquisition:\nIf all of these conditions have been met:\n- it has been at least two days since the passing of Proposal #37\n- no player has posted \"NOBODY expects the Spanish Inquisition\" in <#720025182130929775> for at least three days\n- it has been at least two days since the last time these three conditions have been met\nAll players lose the game.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 727691025513971733,
 			"votes": {
 				"151149148639330304": -1,
@@ -541,6 +541,18 @@
 				"427589146295664667": -1
 			},
 			"timestamp": 1593561866
+		},
+		{
+			"n": 38,
+			"author": 421060058009305088,
+			"content": "Add a new rule %spanish-inquisition:\n> If all of these conditions have been met:\n> - it has been at least two days since the passing of Proposal #37\n> - no player has posted \"NOBODY expects the Spanish Inquisition\" in <#720025182130929775> for at least three days\n> - it has been at least two days since the last time these three conditions have been met\n> All players lose the game.",
+			"status": "voting",
+			"message_id": 729304730714636289,
+			"votes": {
+				"309787486278909952": 0,
+				"421060058009305088": 1
+			},
+			"timestamp": 1593946611
 		}
 	]
 }
