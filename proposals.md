@@ -321,7 +321,7 @@ Delete proposal #36
 
 <a name='37'/>
 
-## #37
+## #37 — Failed
 
 Add a new rule %spanish-inquisition:
 If all of these conditions have been met:
