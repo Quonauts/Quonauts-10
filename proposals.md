@@ -330,3 +330,14 @@ If all of these conditions have been met:
 - it has been at least two days since the last time these three conditions have been met
 All players lose the game.
 
+<a name='38'/>
+
+## #38
+
+Add a new rule %spanish-inquisition:
+> If all of these conditions have been met:
+> - it has been at least two days since the passing of Proposal #37
+> - no player has posted "NOBODY expects the Spanish Inquisition" in <#720025182130929775> for at least three days
+> - it has been at least two days since the last time these three conditions have been met
+> All players lose the game.
+
