@@ -241,7 +241,7 @@ Add a new rule "Dogecoin" (%dogecoin) under %quantities:
 
 <a name='30'/>
 
-## #30
+## #30 — Failed
 
 Go to hell, <@!549449251822764043>
 
