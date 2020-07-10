@@ -347,3 +347,9 @@ Add a new rule %spanish-inquisition:
 
 BEES? DEPLOY THE BISON
 
+<a name='40'/>
+
+## #40
+
+Derwo
+
