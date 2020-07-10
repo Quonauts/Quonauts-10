@@ -341,3 +341,9 @@ Add a new rule %spanish-inquisition:
 > - it has been at least two days since the last time these three conditions have been met
 > All players lose the game.
 
+<a name='39'/>
+
+## #39
+
+BEES? DEPLOY THE BISON
+
