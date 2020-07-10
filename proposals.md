@@ -287,7 +287,7 @@ Edit %furnace:
 
 <a name='33'/>
 
-## #33
+## #33 — Passed
 
 Edit %buildings:
 Change
