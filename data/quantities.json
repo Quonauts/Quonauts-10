@@ -1,14 +1,4 @@
 {
-	"auto-anvils": {
-		"name": "auto-anvils",
-		"aliases": [
-			"auto-anvil"
-		],
-		"players": {
-			"151149148639330304": 7
-		},
-		"default_value": 0
-	},
 	"bee_colonies": {
 		"name": "bee_colonies",
 		"aliases": [
