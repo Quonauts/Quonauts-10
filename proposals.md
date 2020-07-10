@@ -315,7 +315,7 @@ with:
 
 <a name='36'/>
 
-## #36
+## #36 — Passed
 
 Delete proposal #36
 
