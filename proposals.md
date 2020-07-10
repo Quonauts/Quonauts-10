@@ -330,7 +330,7 @@ All players lose the game.
 
 <a name='38'/>
 
-## #38
+## #38 — Passed
 
 Add a new rule %spanish-inquisition:
 > If all of these conditions have been met:
