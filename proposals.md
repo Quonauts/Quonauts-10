@@ -303,7 +303,7 @@ to
 
 <a name='35'/>
 
-## #35
+## #35 — Passed
 
 Replace the following in %buildings:
 
