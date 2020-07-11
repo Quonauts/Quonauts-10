@@ -312,14 +312,12 @@ If at least 8 hours have passed since they last did so, the owner of a mine may 
 
 ##### <a name='furnace'/> Furnace
 
-Required building materials: 4 clay, 2 bricks
+Required building materials: 5 clay, 5 bricks
 
-Power cost: 15 fuel/operation
+If at least have 30 minutes has passed since they last did so, the owner of a furnace may (at a power cost of 20 fuel/operation):
 
-If a furnace is in use and at least 15 minutes have passed since they last did so, the owner of that furnace may:
-
-* change 1 of any quantity ending in "_ore" into the equivalent quantity that does not end with "_ore".
-* change 1 clay into 1 bricks
+* change two of any quantity ending in "_ore" into one of the equivalent quantity that does not end with "_ore".
+* change 2 clay into 1 bricks.
 
 ##### <a name='vet'/> Very Expensive Temple
 
