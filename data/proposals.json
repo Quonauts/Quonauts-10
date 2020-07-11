@@ -606,6 +606,56 @@
 				"309787486278909952": -1
 			},
 			"timestamp": 1594483589
+		},
+		{
+			"n": 43,
+			"author": 151149148639330304,
+			"content": "<@!258639553357676545>, <@!91269654017748992>, <@!427589146295664667>, <@!543131534685765673>, <@!356107472269869058>, <@!390317093242929154>, and <@!331320482047721472> become active players.",
+			"status": "voting",
+			"message_id": 731598551972446280,
+			"votes": {
+				"151149148639330304": 0,
+				"91269654017748992": -1
+			},
+			"timestamp": 1594493487
+		},
+		{
+			"n": 44,
+			"author": 91269654017748992,
+			"content": "Ban <@!151149148639330304> , I'm now leaving the game forever",
+			"status": "voting",
+			"message_id": 731598657803255899,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1
+			},
+			"timestamp": 1594493512
+		},
+		{
+			"n": 45,
+			"author": 258639553357676545,
+			"content": "Generate and utilize bees IMMEDIATELY. Codename GEOMETRIC HYPHEN is to be initiated.",
+			"status": "voting",
+			"message_id": 731599524539269130,
+			"votes": {
+				"151149148639330304": 0,
+				"258639553357676545": 1,
+				"309787486278909952": 0
+			},
+			"timestamp": 1594493719
+		},
+		{
+			"n": 46,
+			"author": 258639553357676545,
+			"content": "All new proposals must be named \"Code [RANDOM COOL ADJECTIVE] [RANDOM COOL NOUN]\"",
+			"status": "voting",
+			"message_id": 731601432888999936,
+			"votes": {
+				"151149148639330304": -1,
+				"258639553357676545": 1,
+				"309787486278909952": 0
+			},
+			"timestamp": 1594494174
 		}
 	]
 }
