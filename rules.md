@@ -347,6 +347,7 @@ List of quantities:
 * **bricks**: tradable, instantiated at 10, building material, made from clay
 * **iron_ore**: found in mines
 * **iron**: tradable, made from smelting iron_ore
+* **dogecoin**: tradable, hard to mine.
 * **mines**: untradeable. Tracks the number of Mines a player has built.
 * **furnaces**: untradeable. Tracks the number of Furnaces a player has built.
 * **very_expensive_temples**: untradeable. Tracks the number of Very Expensive Temples a player has built.
