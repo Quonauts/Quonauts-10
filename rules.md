@@ -44,7 +44,6 @@
     * [**3.2. Dogecoin**](#dogecoin)
 * [**4. Winning**](#winning)
 * [**5. Oats bad**](#oats-bad)
-* [**6. enough is enough**](#enough-is-enough)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -396,11 +395,4 @@ When one or more players have won, the game ends.
 ## <a name='oats-bad'/> Oats bad
 
 no oats
-
-## <a name='enough-is-enough'/> enough is enough
-
-seriously? you complain about the game being dead then actively kill it.
-if you dont want to play the game, please just dont play
-if you do want to play the game, make it better than it is or dont propose at all instead of just proposing silly things
-this has gone on for too long, enough is enough, please stop with the nonsense proposals
 
