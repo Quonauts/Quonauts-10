@@ -351,3 +351,10 @@ BEES? DEPLOY THE BISON
 
 Derwo
 
+<a name='41'/>
+
+## #41
+
+Add a new rule "Proposal 8" (%proposal-8):
+> Players cannot close Proposal #8.
+
