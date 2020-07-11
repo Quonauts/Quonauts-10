@@ -592,6 +592,18 @@
 				"309787486278909952": 1
 			},
 			"timestamp": 1594481798
+		},
+		{
+			"n": 42,
+			"author": 151149148639330304,
+			"content": "Add a new rule \"R\u00e9sum\u00e9\" (%proposal-42):\n> Whenever the game ends, un-archive all Quonauts 9.5 game channels.",
+			"status": "voting",
+			"message_id": 731557036646465538,
+			"votes": {
+				"151149148639330304": 0,
+				"309787486278909952": -1
+			},
+			"timestamp": 1594483589
 		}
 	]
 }
