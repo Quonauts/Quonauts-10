@@ -365,3 +365,9 @@ Add a new rule "Proposal 8" (%proposal-8):
 Add a new rule "Résumé" (%proposal-42):
 > Whenever the game ends, un-archive all Quonauts 9.5 game channels.
 
+<a name='43'/>
+
+## #43
+
+<@!258639553357676545>, <@!91269654017748992>, <@!427589146295664667>, <@!543131534685765673>, <@!356107472269869058>, <@!390317093242929154>, and <@!331320482047721472> become active players.
+
