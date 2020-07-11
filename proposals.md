@@ -383,3 +383,9 @@ Ban <@!151149148639330304> , I'm now leaving the game forever
 
 Generate and utilize bees IMMEDIATELY. Codename GEOMETRIC HYPHEN is to be initiated.
 
+<a name='46'/>
+
+## #46
+
+All new proposals must be named "Code [RANDOM COOL ADJECTIVE] [RANDOM COOL NOUN]"
+
