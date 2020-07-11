@@ -24,7 +24,7 @@
 		"bricks": {
 			"tag": "bricks",
 			"title": "Bricks",
-			"content": "Bricks are a building material. A player may spend 2 clay to create one bricks.\n\nPlayers begin the game with 10 bricks.",
+			"content": "Bricks are a building material. A player may spend 4 clay to create one bricks.\n\nPlayers begin the game with 40 bricks.",
 			"parent_tag": "building-materials",
 			"child_tags": [],
 			"message_ids": [
@@ -47,11 +47,12 @@
 		"buildings": {
 			"tag": "buildings",
 			"title": "Buildings",
-			"content": "Each subsection of this rule corresponds to a building that can be built in a player's factory. If a subsection of this rule is deleted, any factories containing buildings of that type no longer contain those buildings.\n\nThe owner of a building is the player who owns the factory in which the building resides.\n\nIf a player has the necessary building materials (as detailed in the relevant subsection) to create a building, they may spend those materials to build that building in their factory. When a player builds a building, they must announce this in <#720657721371918397>, with a message of the form \"Built (name of building)\".\n\nBuildings may have a power cost in fuel. If so, all operations using this building, unless otherwise specified, consume the specified amount of fuel to take place, and cannot take place if this requirement is not met. Buildings may also declare different power costs per operation.\n\nA player may destroy any building that is not in use, removing it from their factory, by announcing \"Destroyed (name of building)\" in <#720657721371918397>.\n\nIn the above quotes, \"(name of building)\" should be replaced with the name of the relevant subsection.",
+			"content": "Each subsection of this rule corresponds to a building that can be built in a player's factory. If a subsection of this rule is deleted, any factories containing buildings of that type no longer contain those buildings.\n\nThe owner of a building is the player who owns the factory in which the building resides.\n\nIf a player has the necessary building materials (as detailed in the relevant subsection) to create a building, they may spend those materials to build that building in their factory. When a player builds a building, they must announce this in <#720657721371918397>, with a message of the form \"Built (name of building)\".\n\nBuildings may have a power cost in fuel. If so, all operations using this building, unless otherwise specified, consume the specified amount of fuel to take place, and cannot take place if this requirement is not met. Buildings may also declare different power costs per operation.\n\nA player may destroy any building that is not in use, removing it from their factory, by announcing \"Destroyed (name of building)\" in <#720657721371918397>.\n\nIn the above quotes, \"(name of building)\" should be replaced with the name of the relevant subsection.\n\nFor each subsection of this rule, there is an untradeable quantity with the same name (pluralized) as the subsection. Whenever a new subsection is created or a subsection is deleted, [%quantities] must be updated to reflect this.\n\nWhenever a player builds or destroys a building, that player's corresponding quantity must be updated to match the number of that type of building that that player has remaining.",
 			"parent_tag": "factories",
 			"child_tags": [
 				"mine",
-				"furnace"
+				"furnace",
+				"vet"
 			],
 			"message_ids": [
 				731543164548284498
@@ -136,6 +137,16 @@
 				731543099838431273
 			]
 		},
+		"dogecoin": {
+			"tag": "dogecoin",
+			"title": "Dogecoin",
+			"content": "At any time, a player may give themselves any number of dogecoin.",
+			"parent_tag": "quantities",
+			"child_tags": [],
+			"message_ids": [
+				731545966892810262
+			]
+		},
 		"editing-proposals": {
 			"tag": "editing-proposals",
 			"title": "Editing proposals",
@@ -172,7 +183,7 @@
 		"furnace": {
 			"tag": "furnace",
 			"title": "Furnace",
-			"content": "Required building materials: 4 clay, 2 bricks\n\nPower cost: 15 fuel/operation\n\nIf a furnace is in use and at least 15 minutes have passed since they last did so, the owner of that furnace may:\n\n* change 1 of any quantity ending in \"_ore\" into the equivalent quantity that does not end with \"_ore\".\n* change 1 clay into 1 bricks",
+			"content": "Required building materials: 5 clay, 5 bricks\n\nIf at least have 30 minutes has passed since they last did so, the owner of a furnace may (at a power cost of 20 fuel/operation):\n\n* change two of any quantity ending in \"_ore\" into one of the equivalent quantity that does not end with \"_ore\".\n* change 2 clay into 1 bricks.",
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
@@ -240,7 +251,7 @@
 		"mine": {
 			"tag": "mine",
 			"title": "Mine",
-			"content": "Required building materials: 10 bricks\n\nIf at least 2 hours have passed since they last did so, the owner of a mine may gain 100 fuel.\n\nIf at least 4 hours have passed since they last did so, the owner of a mine may roll a 6-sided die, and carry out the effects as specified:\n\n* 1: gain 20 clay\n* 2: gain 250 fuel\n* 3: gain 10 iron_ore\n* 4-6: re-roll the die and carry out the effects as specified",
+			"content": "Required building materials: 40 bricks\n\nIf at least 8 hours have passed since they last did so, the owner of a mine may roll a 3-sided die, and carry out the effects as specified:\n\n* 1: gain 40 clay\n* 2: gain 100 fuel\n* 3: gain 20 iron_ore",
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
@@ -311,13 +322,14 @@
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n* cannot be traded.\n\nThe below list of quantities has no effect on the game. Any existing quantity that is not in the list may be added, along with an optional short description.\n\nList of quantities:\n* **fuel**\n* **clay**: tradable, building material\n* **bricks**: tradable, instantiated at 10, building material, made from clay\n* **iron_ore**: found in mines\n* **iron**: tradable, made from smelting iron_ore",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n* cannot be traded.\n\nThe below list of quantities has no effect on the game. Any existing quantity that is not in the list may be added, along with an optional short description.\n\nList of quantities:\n* **fuel**\n* **clay**: tradable, building material\n* **bricks**: tradable, instantiated at 10, building material, made from clay\n* **iron_ore**: found in mines\n* **iron**: tradable, made from smelting iron_ore\n* **dogecoin**: tradable, hard to mine.\n* **mines**: untradeable. Tracks the number of Mines a player has built.\n* **furnaces**: untradeable. Tracks the number of Furnaces a player has built.\n* **very_expensive_temples**: untradeable. Tracks the number of Very Expensive Temples a player has built.",
 			"parent_tag": "root",
 			"child_tags": [
-				"trade"
+				"trade",
+				"dogecoin"
 			],
 			"message_ids": [
-				731543167282970675
+				731544514803531807
 			]
 		},
 		"root": {
@@ -332,9 +344,9 @@
 				"winning"
 			],
 			"message_ids": [
-				731543187423756339,
-				731543186534826066,
-				731543189391147119
+				731545969119854614,
+				731545970336333934,
+				731545971095240805
 			]
 		},
 		"rule-violation-polls": {
@@ -399,7 +411,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				731543185616011385
+				731544516116611185
 			]
 		},
 		"transactions": {
@@ -410,6 +422,16 @@
 			"child_tags": [],
 			"message_ids": [
 				731543143044087869
+			]
+		},
+		"vet": {
+			"tag": "vet",
+			"title": "Very Expensive Temple",
+			"content": "The Very Expensive Temple cannot be built.",
+			"parent_tag": "buildings",
+			"child_tags": [],
+			"message_ids": [
+				731544514262728771
 			]
 		},
 		"voting-on-proposals": {
@@ -425,11 +447,11 @@
 		"winning": {
 			"tag": "winning",
 			"title": "Winning",
-			"content": "When one or more players have won, the game ends.",
+			"content": "When a player activates a Very Expensive Temple they own, that player wins.\n\nWhen one or more players have won, the game ends.",
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				731543186802999386
+				731545968385851473
 			]
 		}
 	}

@@ -5,17 +5,24 @@
 			"brick"
 		],
 		"players": {
-			"258639553357676545": 0,
-			"309787486278909952": 0,
+			"151149148639330304": 0,
 			"549449251822764043": 0
 		},
-		"default_value": 10
+		"default_value": 40
 	},
 	"clay": {
 		"name": "clay",
 		"aliases": [],
+		"players": {},
+		"default_value": 0
+	},
+	"dogecoin": {
+		"name": "dogecoin",
+		"aliases": [
+			"doge"
+		],
 		"players": {
-			"258639553357676545": 12
+			"151149148639330304": 6475
 		},
 		"default_value": 0
 	},
@@ -23,28 +30,46 @@
 		"name": "fuel",
 		"aliases": [],
 		"players": {
-			"160279332454006795": 100,
-			"258639553357676545": 50,
-			"309787486278909952": 100
+			"151149148639330304": 100
 		},
+		"default_value": 0
+	},
+	"furnaces": {
+		"name": "furnaces",
+		"aliases": [
+			"furnace"
+		],
+		"players": {},
 		"default_value": 0
 	},
 	"iron": {
 		"name": "iron",
 		"aliases": [],
-		"players": {
-			"258639553357676545": 1
-		},
+		"players": {},
 		"default_value": 0
 	},
 	"iron_ore": {
 		"name": "iron_ore",
 		"aliases": [],
+		"players": {},
+		"default_value": 0
+	},
+	"mines": {
+		"name": "mines",
+		"aliases": [
+			"mine"
+		],
 		"players": {
-			"160279332454006795": 10,
-			"258639553357676545": 3,
-			"309787486278909952": 6
+			"151149148639330304": 1
 		},
+		"default_value": 0
+	},
+	"very_expensive_temples": {
+		"name": "very_expensive_temples",
+		"aliases": [
+			"very_expensive_temple"
+		],
+		"players": {},
 		"default_value": 0
 	}
 }
