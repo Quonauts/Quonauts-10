@@ -358,3 +358,10 @@ Derwo
 Add a new rule "Proposal 8" (%proposal-8):
 > Players cannot close Proposal #8.
 
+<a name='42'/>
+
+## #42
+
+Add a new rule "Résumé" (%proposal-42):
+> Whenever the game ends, un-archive all Quonauts 9.5 game channels.
+
