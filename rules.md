@@ -278,9 +278,9 @@ Clay is a building material.
 
 ##### <a name='bricks'/> Bricks
 
-Bricks are a building material. A player may spend 2 clay to create one bricks.
+Bricks are a building material. A player may spend 4 clay to create one bricks.
 
-Players begin the game with 10 bricks.
+Players begin the game with 40 bricks.
 
 #### <a name='buildings'/> Buildings
 
