@@ -29,21 +29,8 @@
     * [**2.4. #polls**](#polls)
         * [**2.4.1. Rule violation polls**](#rule-violation-polls)
     * [**2.5. #transactions**](#transactions)
-    * [**2.6. #factories**](#factories)
-        * [**2.6.1. Building materials**](#building-materials)
-            * [**2.6.1.1. Clay**](#clay)
-            * [**2.6.1.2. Bricks**](#bricks)
-            * [**2.6.1.3. Iron Plates**](#iron-plates)
-        * [**2.6.2. Buildings**](#buildings)
-            * [**2.6.2.1. Mine**](#mine)
-            * [**2.6.2.2. Furnace**](#furnace)
-            * [**2.6.2.3. Very Expensive Temple**](#vet)
-            * [**2.6.2.4. Auto-anvil**](#auto-anvil)
 * [**3. Quantities**](#quantities)
-    * [**3.1. Trade**](#trade)
-    * [**3.2. Dogecoin**](#dogecoin)
 * [**4. Winning**](#winning)
-* [**5. Oats bad**](#oats-bad)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -56,7 +43,7 @@ The definitions for terms listed here take precedence over their normal English 
 * **The Game**: The instance of Nomic governed by these rules.
 * **Game Channel**: Any text or voice channel listed under the "Game Channels" category of the Discord server.
 * **Game Action**: Any modification of the game state.
-* **Game State**: Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every quantity and its values for each player; every player's factory; and every message or reaction in every game channel.
+* **Game State**: Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; and every message or reaction in any game channel.
 * **The Rules**: The rules of the game, which are described by this document.
 * **Section**: A part of the rules contained under one header. Unless otherwise specified, this does not include its subsections.
 * **Subsection**: A section contained within another another section.
@@ -263,136 +250,22 @@ If the poll passes and more players are in favour of a strike (👍 reactions) t
 
 The <#720025266256216176> channel may be used to modify quantities, but only in ways specifically allowed by other rules.
 
-### <a name='factories'/> #factories
-
-The <#720657721371918397> channel is used to announce actions related to factories.
-
-Each player has a factory, which consists of zero or more buildings.
-
-#### <a name='building-materials'/> Building materials
-
-Building materials are quantities that can be spent in order to create buildings. Each subsection of this rule corresponds to a building material.
-
-All building materials are tradable.
-
-##### <a name='clay'/> Clay
-
-Clay is a building material.
-
-##### <a name='bricks'/> Bricks
-
-Bricks are a building material. A player may spend 2 clay to create one bricks.
-
-Players begin the game with 10 bricks.
-
-##### <a name='iron-plates'/> Iron Plates
-
-Iron Plates are a building material.
-
-#### <a name='buildings'/> Buildings
-
-Each subsection of this rule corresponds to a building that can be built in a player's factory. If a subsection of this rule is deleted, any factories containing buildings of that type no longer contain those buildings.
-
-The owner of a building is the player who owns the factory in which the building resides.
-
-If a player has the necessary building materials (as detailed in the relevant subsection) to create a building, they may spend those materials to build that building in their factory. When a player builds a building, they must announce this in <#720657721371918397>, with a message of the form "Built (name of building)".
-
-Buildings may have a power cost in fuel. If so, all operations using this building, unless otherwise specified, consume the specified amount of fuel to take place, and cannot take place if this requirement is not met. Buildings may also declare different power costs per operation.
-
-A player may destroy any building that is not in use, removing it from their factory, by announcing "Destroyed (name of building)" in <#720657721371918397>.
-
-In the above quotes, "(name of building)" should be replaced with the name of the relevant subsection.
-
-For each subsection of this rule, there is an untradeable quantity with the same name (pluralized) as the subsection. Whenever a new subsection is created or a subsection is deleted, [**3. Quantities**](#quantities) must be updated to reflect this.
-
-Whenever a player builds or destroys a building, that player's corresponding quantity must be updated to match the number of that type of building that that player has remaining.
-
-##### <a name='mine'/> Mine
-
-Required building materials: 10 bricks
-
-If at least 2 hours have passed since they last did so, the owner of a mine may gain 100 fuel.
-
-If at least 4 hours have passed since they last did so, the owner of a mine may roll a 3-sided die, and carry out the effects as specified:
-
-• 1: gain 20 clay
-• 2: gain 250 fuel
-• 3: gain 10 iron_ore
-
-##### <a name='furnace'/> Furnace
-
-Required building materials: 4 clay, 2 bricks
-
-Power cost: 15 fuel/operation
-
-If a furnace is in use and at least 15 minutes have passed since they last did so, the owner of that furnace may:
-
-* change 1 of any quantity ending in "_ore" into the equivalent quantity that does not end with "_ore".
-* change 1 clay into 1 bricks
-
-##### <a name='vet'/> Very Expensive Temple
-
-Required building materials: 176 bricks, 50 iron, 200 honeycomb
-
-Activation cost (action "activate"): 100 bee souls
-
-##### <a name='auto-anvil'/> Auto-anvil
-
-Required building materials: 5 bricks, 7 iron
-
-Power cost: 30 fuel/operation
-
-If at least 15 minutes have passed since they last did so, the owner of that auto-anvil may:
-change 2 iron into 1 iron_plate
-
 ## <a name='quantities'/> Quantities
 
 A quantity is a named property with a numerical value for each player.
 
 By default any unique quantity added to the game:
 
-• applies to all players.
-• is instantiated at zero.
-• must be an integer.
-• must never have a negative value.
-• cannot be traded.
+* applies to all players.
+* is instantiated at zero.
+* must be an integer.
+* must never have a negative value.
 
 The below list of quantities has no effect on the game. Any existing quantity that is not in the list may be added, along with an optional short description.
 
 List of quantities:
-• dogecoin: tradeable. crypto-currency.
-• fuel
-• clay: tradeable, building material
-• bricks: tradable, instantiated at 10, building material, made from clay
-• iron_ore: found in mines
-• iron: tradable, made from smelting iron_ore
-• iron_plates: tradable, crafted with iron
-• mines: untradeable. Tracks the number of Mines a player has built.
-• furnaces: untradeable. Tracks the number of Furnaces a player has built.
-• very_expensive_temples: untradeable. Tracks the number of Very Expensive Temples a player has built.
-• auto-anvils: untradeable. Tracks the number of Auto-anvils a player has built.
-
-### <a name='trade'/> Trade
-
-Any two players may exchange predetermined non-negative amounts of any two tradable quantities. Both players must make an announcement in <#720025266256216176>, clearly stating:
-
-* who the other party is.
-* which quantities will be traded.
-* the amounts of each quantity that will be traded.
-
-After a pair of matching announcements have been made, the players' quantities are changed according to the trade.
-
-### <a name='dogecoin'/> Dogecoin
-
-At any time, a player may give themselves any number of dogecoin.
 
 ## <a name='winning'/> Winning
 
-When a player activates a Very Expensive Temple they own, that player wins.
-
 When one or more players have won, the game ends.
-
-## <a name='oats-bad'/> Oats bad
-
-no oats
 

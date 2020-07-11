@@ -8,17 +8,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				720768805265080341
-			]
-		},
-		"auto-anvil": {
-			"tag": "auto-anvil",
-			"title": "Auto-anvil",
-			"content": "Required building materials: 5 bricks, 7 iron\n\nPower cost: 30 fuel/operation\n\nIf at least 15 minutes have passed since they last did so, the owner of that auto-anvil may:\nchange 2 iron into 1 iron_plate",
-			"parent_tag": "buildings",
-			"child_tags": [],
-			"message_ids": [
-				723261781514125413
+				731540276069400616
 			]
 		},
 		"bots": {
@@ -28,46 +18,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				720768825997656075
-			]
-		},
-		"bricks": {
-			"tag": "bricks",
-			"title": "Bricks",
-			"content": "Bricks are a building material. A player may spend 2 clay to create one bricks.\n\nPlayers begin the game with 10 bricks.",
-			"parent_tag": "building-materials",
-			"child_tags": [],
-			"message_ids": [
-				723261757748936787
-			]
-		},
-		"building-materials": {
-			"tag": "building-materials",
-			"title": "Building materials",
-			"content": "Building materials are quantities that can be spent in order to create buildings. Each subsection of this rule corresponds to a building material.\n\nAll building materials are tradable.",
-			"parent_tag": "factories",
-			"child_tags": [
-				"clay",
-				"bricks",
-				"iron-plates"
-			],
-			"message_ids": [
-				723261755945517147
-			]
-		},
-		"buildings": {
-			"tag": "buildings",
-			"title": "Buildings",
-			"content": "Each subsection of this rule corresponds to a building that can be built in a player's factory. If a subsection of this rule is deleted, any factories containing buildings of that type no longer contain those buildings.\n\nThe owner of a building is the player who owns the factory in which the building resides.\n\nIf a player has the necessary building materials (as detailed in the relevant subsection) to create a building, they may spend those materials to build that building in their factory. When a player builds a building, they must announce this in <#720657721371918397>, with a message of the form \"Built (name of building)\".\n\nBuildings may have a power cost in fuel. If so, all operations using this building, unless otherwise specified, consume the specified amount of fuel to take place, and cannot take place if this requirement is not met. Buildings may also declare different power costs per operation.\n\nA player may destroy any building that is not in use, removing it from their factory, by announcing \"Destroyed (name of building)\" in <#720657721371918397>.\n\nIn the above quotes, \"(name of building)\" should be replaced with the name of the relevant subsection.\n\nFor each subsection of this rule, there is an untradeable quantity with the same name (pluralized) as the subsection. Whenever a new subsection is created or a subsection is deleted, [%quantities] must be updated to reflect this.\n\nWhenever a player builds or destroys a building, that player's corresponding quantity must be updated to match the number of that type of building that that player has remaining.",
-			"parent_tag": "factories",
-			"child_tags": [
-				"mine",
-				"furnace",
-				"vet",
-				"auto-anvil"
-			],
-			"message_ids": [
-				723261777378541708
+				731540296864628776
 			]
 		},
 		"channels": {
@@ -80,21 +31,10 @@
 				"proposals",
 				"rules",
 				"polls",
-				"transactions",
-				"factories"
+				"transactions"
 			],
 			"message_ids": [
-				723261690002538526
-			]
-		},
-		"clay": {
-			"tag": "clay",
-			"title": "Clay",
-			"content": "Clay is a building material.",
-			"parent_tag": "building-materials",
-			"child_tags": [],
-			"message_ids": [
-				723261757182836757
+				731540320172638259
 			]
 		},
 		"closing-proposals": {
@@ -106,7 +46,7 @@
 				"passing-and-failing-proposals"
 			],
 			"message_ids": [
-				723261714262655036
+				731540345115901974
 			]
 		},
 		"conflict-resolution": {
@@ -116,7 +56,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				723261693769154700
+				731540341605400628
 			]
 		},
 		"content": {
@@ -126,7 +66,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				720768827348091031
+				731540298551001149
 			]
 		},
 		"deleting-proposals": {
@@ -136,7 +76,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				723261715587792928
+				731540363285758032
 			]
 		},
 		"dependency-resolution": {
@@ -146,17 +86,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				723261712064708638
-			]
-		},
-		"dogecoin": {
-			"tag": "dogecoin",
-			"title": "Dogecoin",
-			"content": "At any time, a player may give themselves any number of dogecoin.",
-			"parent_tag": "quantities",
-			"child_tags": [],
-			"message_ids": [
-				724076055945674876
+				731540343270670436
 			]
 		},
 		"editing-proposals": {
@@ -166,20 +96,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				723261733698928730
-			]
-		},
-		"factories": {
-			"tag": "factories",
-			"title": "#factories",
-			"content": "The <#720657721371918397> channel is used to announce actions related to factories.\n\nEach player has a factory, which consists of zero or more buildings.",
-			"parent_tag": "channels",
-			"child_tags": [
-				"building-materials",
-				"buildings"
-			],
-			"message_ids": [
-				723261755370766377
+				731540364237996074
 			]
 		},
 		"formatting": {
@@ -189,17 +106,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				720768847766093862
-			]
-		},
-		"furnace": {
-			"tag": "furnace",
-			"title": "Furnace",
-			"content": "Required building materials: 4 clay, 2 bricks\n\nPower cost: 15 fuel/operation\n\nIf a furnace is in use and at least 15 minutes have passed since they last did so, the owner of that furnace may:\n\n* change 1 of any quantity ending in \"_ore\" into the equivalent quantity that does not end with \"_ore\".\n* change 1 clay into 1 bricks",
-			"parent_tag": "buildings",
-			"child_tags": [],
-			"message_ids": [
-				723261778879971330
+				731540319237308456
 			]
 		},
 		"general": {
@@ -209,17 +116,17 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				723261690824622100
+				731540321078345761
 			]
 		},
 		"glossary": {
 			"tag": "glossary",
 			"title": "Glossary",
-			"content": "The definitions for terms listed here take precedence over their normal English meanings, however any terms defined in a specific section of the rules override these in the section in which they are defined and its subsections. A section may also define terms for use in the whole document.\n\n* **The Game**: The instance of Nomic governed by these rules.\n* **Game Channel**: Any text or voice channel listed under the \"Game Channels\" category of the Discord server.\n* **Game Action**: Any modification of the game state.\n* **Game State**: Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every quantity and its values for each player; every player's factory; and every message or reaction in every game channel.\n* **The Rules**: The rules of the game, which are described by this document.\n* **Section**: A part of the rules contained under one header. Unless otherwise specified, this does not include its subsections.\n* **Subsection**: A section contained within another another section.\n* **Clause**: A single statement in the rules.\n* **Player**: Any participant of the game.\n* **Active Player**: Any player who has performed a game action in the preceding 72 hours, and is a member of the Discord server.\n* **Inactive Player**: Any player who is not an active player.",
+			"content": "The definitions for terms listed here take precedence over their normal English meanings, however any terms defined in a specific section of the rules override these in the section in which they are defined and its subsections. A section may also define terms for use in the whole document.\n\n* **The Game**: The instance of Nomic governed by these rules.\n* **Game Channel**: Any text or voice channel listed under the \"Game Channels\" category of the Discord server.\n* **Game Action**: Any modification of the game state.\n* **Game State**: Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; and every message or reaction in any game channel.\n* **The Rules**: The rules of the game, which are described by this document.\n* **Section**: A part of the rules contained under one header. Unless otherwise specified, this does not include its subsections.\n* **Subsection**: A section contained within another another section.\n* **Clause**: A single statement in the rules.\n* **Player**: Any participant of the game.\n* **Active Player**: Any player who has performed a game action in the preceding 72 hours, and is a member of the Discord server.\n* **Inactive Player**: Any player who is not an active player.",
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				720768804585603072
+				731540275310231642
 			]
 		},
 		"headers-and-tags": {
@@ -229,17 +136,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				720768828295872532
-			]
-		},
-		"iron-plates": {
-			"tag": "iron-plates",
-			"title": "Iron Plates",
-			"content": "Iron Plates are a building material.",
-			"parent_tag": "building-materials",
-			"child_tags": [],
-			"message_ids": [
-				723261759259148352
+				731540299079221280
 			]
 		},
 		"lists": {
@@ -249,7 +146,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				720768847212183592
+				731540318079680574
 			]
 		},
 		"meta-rules": {
@@ -267,27 +164,7 @@
 				"style-conventions"
 			],
 			"message_ids": [
-				720768803381837827
-			]
-		},
-		"mine": {
-			"tag": "mine",
-			"title": "Mine",
-			"content": "Required building materials: 10 bricks\n\nIf at least 2 hours have passed since they last did so, the owner of a mine may gain 100 fuel.\n\nIf at least 4 hours have passed since they last did so, the owner of a mine may roll a 3-sided die, and carry out the effects as specified:\n\n\u2022 1: gain 20 clay\n\u2022 2: gain 250 fuel\n\u2022 3: gain 10 iron_ore",
-			"parent_tag": "buildings",
-			"child_tags": [],
-			"message_ids": [
-				723261778321997874
-			]
-		},
-		"oats-bad": {
-			"tag": "oats-bad",
-			"title": "Oats bad",
-			"content": "no oats",
-			"parent_tag": "root",
-			"child_tags": [],
-			"message_ids": [
-				724076057648562207
+				731540274274369556
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -297,7 +174,7 @@
 			"parent_tag": "closing-proposals",
 			"child_tags": [],
 			"message_ids": [
-				723261714832818198
+				731540362136649769
 			]
 		},
 		"polls": {
@@ -309,7 +186,7 @@
 				"rule-violation-polls"
 			],
 			"message_ids": [
-				723261735498416138
+				731540367131934720
 			]
 		},
 		"precedence": {
@@ -319,7 +196,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				720768806150209616
+				731540276744683641
 			]
 		},
 		"proposal-content": {
@@ -332,7 +209,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				723261692427108493
+				731540339801981090
 			]
 		},
 		"proposals": {
@@ -348,20 +225,17 @@
 				"editing-proposals"
 			],
 			"message_ids": [
-				723261691739111594
+				731540322508865627
 			]
 		},
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n\u2022 applies to all players.\n\u2022 is instantiated at zero.\n\u2022 must be an integer.\n\u2022 must never have a negative value.\n\u2022 cannot be traded.\n\nThe below list of quantities has no effect on the game. Any existing quantity that is not in the list may be added, along with an optional short description.\n\nList of quantities:\n\u2022 dogecoin: tradeable. crypto-currency.\n\u2022 fuel\n\u2022 clay: tradeable, building material\n\u2022 bricks: tradable, instantiated at 10, building material, made from clay\n\u2022 iron_ore: found in mines\n\u2022 iron: tradable, made from smelting iron_ore\n\u2022 iron_plates: tradable, crafted with iron\n\u2022 mines: untradeable. Tracks the number of Mines a player has built.\n\u2022 furnaces: untradeable. Tracks the number of Furnaces a player has built.\n\u2022 very_expensive_temples: untradeable. Tracks the number of Very Expensive Temples a player has built.\n\u2022 auto-anvils: untradeable. Tracks the number of Auto-anvils a player has built.",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n\nThe below list of quantities has no effect on the game. Any existing quantity that is not in the list may be added, along with an optional short description.\n\nList of quantities:",
 			"parent_tag": "root",
-			"child_tags": [
-				"trade",
-				"dogecoin"
-			],
+			"child_tags": [],
 			"message_ids": [
-				723261799335460944
+				731540386463612979
 			]
 		},
 		"root": {
@@ -373,13 +247,11 @@
 				"meta-rules",
 				"channels",
 				"quantities",
-				"winning",
-				"oats-bad"
+				"winning"
 			],
 			"message_ids": [
-				727549181560094792,
-				727549182860198030,
-				727549183921488042
+				731540388275290222,
+				731540405916794961
 			]
 		},
 		"rule-violation-polls": {
@@ -389,7 +261,7 @@
 			"parent_tag": "polls",
 			"child_tags": [],
 			"message_ids": [
-				723261736500592740
+				731540383787647079
 			]
 		},
 		"rule-violations": {
@@ -399,7 +271,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				720768806602932227
+				731540277440938037
 			]
 		},
 		"rules": {
@@ -409,7 +281,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				723261734286262343
+				731540365940621433
 			]
 		},
 		"style-conventions": {
@@ -424,7 +296,7 @@
 				"formatting"
 			],
 			"message_ids": [
-				720768826559692933
+				731540297460482080
 			]
 		},
 		"timezones": {
@@ -434,17 +306,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				720768825477300305
-			]
-		},
-		"trade": {
-			"tag": "trade",
-			"title": "Trade",
-			"content": "Any two players may exchange predetermined non-negative amounts of any two tradable quantities. Both players must make an announcement in <#720025266256216176>, clearly stating:\n\n* who the other party is.\n* which quantities will be traded.\n* the amounts of each quantity that will be traded.\n\nAfter a pair of matching announcements have been made, the players' quantities are changed according to the trade.",
-			"parent_tag": "quantities",
-			"child_tags": [],
-			"message_ids": [
-				723261800082309231
+				731540295656931350
 			]
 		},
 		"transactions": {
@@ -454,17 +316,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				723261737293316127
-			]
-		},
-		"vet": {
-			"tag": "vet",
-			"title": "Very Expensive Temple",
-			"content": "Required building materials: 176 bricks, 50 iron, 200 honeycomb\n\nActivation cost (action \"activate\"): 100 bee souls",
-			"parent_tag": "buildings",
-			"child_tags": [],
-			"message_ids": [
-				723261780562018355
+				731540385062453329
 			]
 		},
 		"voting-on-proposals": {
@@ -474,17 +326,17 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				723261712999907361
+				731540344386093157
 			]
 		},
 		"winning": {
 			"tag": "winning",
 			"title": "Winning",
-			"content": "When a player activates a Very Expensive Temple they own, that player wins.\n\nWhen one or more players have won, the game ends.",
+			"content": "When one or more players have won, the game ends.",
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				724076056927010935
+				731540387176513616
 			]
 		}
 	}
