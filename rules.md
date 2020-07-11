@@ -295,6 +295,10 @@ A player may destroy any building that is not in use, removing it from their fac
 
 In the above quotes, "(name of building)" should be replaced with the name of the relevant subsection.
 
+For each subsection of this rule, there is an untradeable quantity with the same name (pluralized) as the subsection. Whenever a new subsection is created or a subsection is deleted, [**3. Quantities**](#quantities) must be updated to reflect this.
+
+Whenever a player builds or destroys a building, that player's corresponding quantity must be updated to match the number of that type of building that that player has remaining.
+
 ##### <a name='mine'/> Mine
 
 Required building materials: 10 bricks
