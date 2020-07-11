@@ -39,6 +39,7 @@
             * [**2.6.2.3. Very Expensive Temple**](#vet)
 * [**3. Quantities**](#quantities)
     * [**3.1. Trade**](#trade)
+    * [**3.2. Dogecoin**](#dogecoin)
 * [**4. Winning**](#winning)
 
 ## <a name='meta-rules'/> Meta rules
@@ -361,6 +362,10 @@ Any two players may exchange predetermined non-negative amounts of any two trada
 * the amounts of each quantity that will be traded.
 
 After a pair of matching announcements have been made, the players' quantities are changed according to the trade.
+
+### <a name='dogecoin'/> Dogecoin
+
+At any time, a player may give themselves any number of dogecoin.
 
 ## <a name='winning'/> Winning
 
