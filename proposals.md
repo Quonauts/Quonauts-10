@@ -389,3 +389,11 @@ Generate and utilize bees IMMEDIATELY. Codename GEOMETRIC HYPHEN is to be initia
 
 All new proposals must be named "Code [RANDOM COOL ADJECTIVE] [RANDOM COOL NOUN]"
 
+<a name='47'/>
+
+## #47
+
+Create a new rule "taco soup" (%chives):
+> XXX cannot propose a proposal. If it has been more than a day since the creation of this rule, delete this rule
+Then, replace XXX in %chives with the name of a random active player.
+
