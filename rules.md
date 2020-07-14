@@ -42,6 +42,7 @@
     * [**3.2. Dogecoin**](#dogecoin)
 * [**4. Winning**](#winning)
 * [**5. Proposal 8**](#proposal-8)
+* [**6. Résumé**](#proposal-42)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -372,4 +373,8 @@ When one or more players have won, the game ends.
 ## <a name='proposal-8'/> Proposal 8
 
 Players cannot close Proposal #8.
+
+## <a name='proposal-42'/> Résumé
+
+Whenever the game ends, un-archive all Quonauts 9.5 game channels.
 
