@@ -41,6 +41,7 @@
     * [**3.1. Trade**](#trade)
     * [**3.2. Dogecoin**](#dogecoin)
 * [**4. Winning**](#winning)
+* [**5. Proposal 8**](#proposal-8)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -367,4 +368,8 @@ At any time, a player may give themselves any number of dogecoin.
 When a player activates a Very Expensive Temple they own, that player wins.
 
 When one or more players have won, the game ends.
+
+## <a name='proposal-8'/> Proposal 8
+
+Players cannot close Proposal #8.
 
