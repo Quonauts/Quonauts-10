@@ -341,7 +341,7 @@ Add a new rule %spanish-inquisition:
 
 <a name='39'/>
 
-## #39
+## #39 — Failed
 
 BEES? DEPLOY THE BISON
 
