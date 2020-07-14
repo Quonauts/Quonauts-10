@@ -381,5 +381,5 @@ Whenever the game ends, un-archive all Quonauts 9.5 game channels.
 
 ## <a name='chives'/> taco soup
 
-XXX cannot propose a proposal. If it has been more than a day since the creation of this rule, delete this rule
+<@!258639553357676545> cannot propose a proposal. If it has been more than a day since the creation of this rule, delete this rule
 
