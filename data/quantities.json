@@ -5,7 +5,7 @@
 			"brick"
 		],
 		"players": {
-			"151149148639330304": 0,
+			"151149148639330304": 1,
 			"549449251822764043": 0
 		},
 		"default_value": 40
@@ -13,7 +13,9 @@
 	"clay": {
 		"name": "clay",
 		"aliases": [],
-		"players": {},
+		"players": {
+			"151149148639330304": 13
+		},
 		"default_value": 0
 	},
 	"dogecoin": {
@@ -30,7 +32,7 @@
 		"name": "fuel",
 		"aliases": [],
 		"players": {
-			"151149148639330304": 100
+			"151149148639330304": 80
 		},
 		"default_value": 0
 	},
@@ -39,7 +41,9 @@
 		"aliases": [
 			"furnace"
 		],
-		"players": {},
+		"players": {
+			"151149148639330304": 1
+		},
 		"default_value": 0
 	},
 	"iron": {

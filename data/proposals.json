@@ -629,7 +629,7 @@
 			"n": 44,
 			"author": 91269654017748992,
 			"content": "Ban <@!151149148639330304> , I'm now leaving the game forever",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 731598657803255899,
 			"votes": {
 				"151149148639330304": 1,
@@ -649,6 +649,7 @@
 				"160279332454006795": 0,
 				"258639553357676545": 1,
 				"309787486278909952": 0,
+				"311467257643532288": 1,
 				"421060058009305088": 1
 			},
 			"timestamp": 1594493719
@@ -657,7 +658,7 @@
 			"n": 46,
 			"author": 258639553357676545,
 			"content": "All new proposals must be named \"Code [RANDOM COOL ADJECTIVE] [RANDOM COOL NOUN]\"",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 731601432888999936,
 			"votes": {
 				"151149148639330304": -1,
@@ -673,7 +674,7 @@
 			"n": 47,
 			"author": 421060058009305088,
 			"content": "Create a new rule \"taco soup\" (%chives):\n> XXX cannot propose a proposal. If it has been more than a day since the creation of this rule, delete this rule\nThen, replace XXX in %chives with the name of a random active player.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 731662932827570187,
 			"votes": {
 				"151149148639330304": 1,

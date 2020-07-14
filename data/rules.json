@@ -75,6 +75,16 @@
 				731543078204342362
 			]
 		},
+		"chives": {
+			"tag": "chives",
+			"title": "taco soup",
+			"content": "<@!258639553357676545> cannot propose a proposal. If it has been more than a day since the creation of this rule, delete this rule",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				732424478637948979
+			]
+		},
 		"clay": {
 			"tag": "clay",
 			"title": "Clay",
@@ -363,12 +373,13 @@
 				"quantities",
 				"winning",
 				"proposal-8",
-				"proposal-42"
+				"proposal-42",
+				"chives"
 			],
 			"message_ids": [
-				732424005696356363,
-				732424006807978087,
-				732424007743438879
+				732424479627542528,
+				732424480562872390,
+				732424481389150312
 			]
 		},
 		"rule-violation-polls": {
