@@ -560,7 +560,7 @@
 			"n": 39,
 			"author": 421060058009305088,
 			"content": "BEES? DEPLOY THE BISON",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 731141087963381810,
 			"votes": {
 				"151149148639330304": -1,
@@ -573,7 +573,7 @@
 			"n": 40,
 			"author": 421060058009305088,
 			"content": "Derwo",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 731198487470932070,
 			"votes": {
 				"151149148639330304": -1,
@@ -586,7 +586,7 @@
 			"n": 41,
 			"author": 151149148639330304,
 			"content": "Add a new rule \"Proposal 8\" (%proposal-8):\n> Players cannot close Proposal #8.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 731549525260369922,
 			"votes": {
 				"151149148639330304": 1,
@@ -601,7 +601,7 @@
 			"n": 42,
 			"author": 151149148639330304,
 			"content": "Add a new rule \"R\u00e9sum\u00e9\" (%proposal-42):\n> Whenever the game ends, un-archive all Quonauts 9.5 game channels.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 731557036646465538,
 			"votes": {
 				"151149148639330304": 1,

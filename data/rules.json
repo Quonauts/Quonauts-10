@@ -290,6 +290,26 @@
 				731543034944159785
 			]
 		},
+		"proposal-42": {
+			"tag": "proposal-42",
+			"title": "R\u00e9sum\u00e9",
+			"content": "Whenever the game ends, un-archive all Quonauts 9.5 game channels.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				732424005058953232
+			]
+		},
+		"proposal-8": {
+			"tag": "proposal-8",
+			"title": "Proposal 8",
+			"content": "Players cannot close Proposal #8.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				732423721217949706
+			]
+		},
 		"proposal-content": {
 			"tag": "proposal-content",
 			"title": "Proposal content",
@@ -341,12 +361,14 @@
 				"meta-rules",
 				"channels",
 				"quantities",
-				"winning"
+				"winning",
+				"proposal-8",
+				"proposal-42"
 			],
 			"message_ids": [
-				731545969119854614,
-				731545970336333934,
-				731545971095240805
+				732424005696356363,
+				732424006807978087,
+				732424007743438879
 			]
 		},
 		"rule-violation-polls": {
