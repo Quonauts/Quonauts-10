@@ -360,7 +360,7 @@ Add a new rule "Proposal 8" (%proposal-8):
 
 <a name='42'/>
 
-## #42
+## #42 — Passed
 
 Add a new rule "Résumé" (%proposal-42):
 > Whenever the game ends, un-archive all Quonauts 9.5 game channels.
