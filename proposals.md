@@ -373,7 +373,7 @@ Add a new rule "Résumé" (%proposal-42):
 
 <a name='44'/>
 
-## #44
+## #44 — Passed
 
 Ban <@!151149148639330304> , I'm now leaving the game forever
 
