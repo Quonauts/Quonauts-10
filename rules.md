@@ -43,7 +43,6 @@
 * [**4. Winning**](#winning)
 * [**5. Proposal 8**](#proposal-8)
 * [**6. Résumé**](#proposal-42)
-* [**7. taco soup**](#chives)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -378,8 +377,4 @@ Players cannot close Proposal #8.
 ## <a name='proposal-42'/> Résumé
 
 Whenever the game ends, un-archive all Quonauts 9.5 game channels.
-
-## <a name='chives'/> taco soup
-
-<@!258639553357676545> cannot propose a proposal. If it has been more than a day since the creation of this rule, delete this rule
 
