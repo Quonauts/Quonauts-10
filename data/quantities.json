@@ -5,7 +5,7 @@
 			"brick"
 		],
 		"players": {
-			"151149148639330304": 4
+			"151149148639330304": 5
 		},
 		"default_value": 40
 	},
@@ -13,7 +13,7 @@
 		"name": "clay",
 		"aliases": [],
 		"players": {
-			"151149148639330304": 7
+			"151149148639330304": 45
 		},
 		"default_value": 0
 	},
@@ -31,9 +31,7 @@
 	"fuel": {
 		"name": "fuel",
 		"aliases": [],
-		"players": {
-			"151149148639330304": 20
-		},
+		"players": {},
 		"default_value": 0
 	},
 	"furnaces": {
