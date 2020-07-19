@@ -397,3 +397,10 @@ Create a new rule "taco soup" (%chives):
 > XXX cannot propose a proposal. If it has been more than a day since the creation of this rule, delete this rule
 Then, replace XXX in %chives with the name of a random active player.
 
+<a name='48'/>
+
+## #48
+
+Create a new rule %recursion under %recursion:
+Recursion!
+
