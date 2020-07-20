@@ -8,7 +8,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				731543033962692620
+				734555865327337522
 			]
 		},
 		"bots": {
@@ -18,7 +18,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				731543054644936755
+				734555886567292999
 			]
 		},
 		"bricks": {
@@ -28,7 +28,7 @@
 			"parent_tag": "building-materials",
 			"child_tags": [],
 			"message_ids": [
-				731543164003024916
+				734555996705259562
 			]
 		},
 		"building-materials": {
@@ -41,7 +41,7 @@
 				"bricks"
 			],
 			"message_ids": [
-				731543144771878922
+				734555977898000414
 			]
 		},
 		"buildings": {
@@ -55,7 +55,7 @@
 				"vet"
 			],
 			"message_ids": [
-				731543164548284498
+				734555997787652156
 			]
 		},
 		"channels": {
@@ -72,7 +72,7 @@
 				"factories"
 			],
 			"message_ids": [
-				731543078204342362
+				734555908616749147
 			]
 		},
 		"clay": {
@@ -82,7 +82,7 @@
 			"parent_tag": "building-materials",
 			"child_tags": [],
 			"message_ids": [
-				731543145178857523
+				734555978623615018
 			]
 		},
 		"closing-proposals": {
@@ -94,7 +94,7 @@
 				"passing-and-failing-proposals"
 			],
 			"message_ids": [
-				731543101826662482
+				734555934688411719
 			]
 		},
 		"conflict-resolution": {
@@ -104,7 +104,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				731543098857095208
+				734555932377350156
 			]
 		},
 		"content": {
@@ -114,7 +114,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				731543056288972830
+				734555888173449277
 			]
 		},
 		"deleting-proposals": {
@@ -124,7 +124,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				731543120432595044
+				734555953982210126
 			]
 		},
 		"dependency-resolution": {
@@ -134,7 +134,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				731543099838431273
+				734555933262217286
 			]
 		},
 		"dogecoin": {
@@ -144,7 +144,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				731545966892810262
+				734556020273053847
 			]
 		},
 		"editing-proposals": {
@@ -154,7 +154,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				731543121518788618
+				734555954926059570
 			]
 		},
 		"factories": {
@@ -167,7 +167,7 @@
 				"buildings"
 			],
 			"message_ids": [
-				731543143719108629
+				734555976665137214
 			]
 		},
 		"formatting": {
@@ -177,7 +177,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				731543076765696061
+				734555908016701541
 			]
 		},
 		"furnace": {
@@ -187,7 +187,7 @@
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
-				731543166595104788
+				734555999830278243
 			]
 		},
 		"general": {
@@ -197,7 +197,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				731543078988677170
+				734555909640159332
 			]
 		},
 		"glossary": {
@@ -207,7 +207,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				731543033211912204
+				734555864337481828
 			]
 		},
 		"headers-and-tags": {
@@ -217,7 +217,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				731543057140416552
+				734555889029087324
 			]
 		},
 		"lists": {
@@ -227,7 +227,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				731543076165648465
+				734555907114926150
 			]
 		},
 		"meta-rules": {
@@ -245,7 +245,7 @@
 				"style-conventions"
 			],
 			"message_ids": [
-				731543032381571162
+				734555863469129748
 			]
 		},
 		"mine": {
@@ -255,7 +255,7 @@
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
-				731543165340876857
+				734555998836097146
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -265,7 +265,7 @@
 			"parent_tag": "closing-proposals",
 			"child_tags": [],
 			"message_ids": [
-				731543119757050007
+				734555952992485396
 			]
 		},
 		"polls": {
@@ -277,7 +277,7 @@
 				"rule-violation-polls"
 			],
 			"message_ids": [
-				731543123464945816
+				734555956716765215
 			]
 		},
 		"precedence": {
@@ -287,7 +287,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				731543034944159785
+				734555866199490560
 			]
 		},
 		"proposal-42": {
@@ -297,7 +297,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				732424005058953232
+				734556040774942820
 			]
 		},
 		"proposal-8": {
@@ -307,7 +307,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				732423721217949706
+				734556021661630496
 			]
 		},
 		"proposal-content": {
@@ -320,7 +320,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				731543097842073683
+				734555931282505771
 			]
 		},
 		"proposals": {
@@ -336,7 +336,7 @@
 				"editing-proposals"
 			],
 			"message_ids": [
-				731543079525548065
+				734555910541934742
 			]
 		},
 		"quantities": {
@@ -349,7 +349,7 @@
 				"dogecoin"
 			],
 			"message_ids": [
-				731544514803531807
+				734556018234622073
 			]
 		},
 		"root": {
@@ -366,9 +366,9 @@
 				"proposal-42"
 			],
 			"message_ids": [
-				732424479627542528,
-				732424480562872390,
-				732424481389150312
+				734556041517465647,
+				734556042356064427,
+				734556042859642921
 			]
 		},
 		"rule-violation-polls": {
@@ -378,7 +378,7 @@
 			"parent_tag": "polls",
 			"child_tags": [],
 			"message_ids": [
-				731543141718687896
+				734555974970507344
 			]
 		},
 		"rule-violations": {
@@ -388,7 +388,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				731543035745140738
+				734555866627571825
 			]
 		},
 		"rules": {
@@ -398,7 +398,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				731543122475089960
+				734555955877904545
 			]
 		},
 		"style-conventions": {
@@ -413,7 +413,7 @@
 				"formatting"
 			],
 			"message_ids": [
-				731543055370551347
+				734555887322005657
 			]
 		},
 		"timezones": {
@@ -423,7 +423,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				731543053919322133
+				734555885359333407
 			]
 		},
 		"trade": {
@@ -433,7 +433,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				731544516116611185
+				734556019350568991
 			]
 		},
 		"transactions": {
@@ -443,7 +443,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				731543143044087869
+				734555975842922596
 			]
 		},
 		"vet": {
@@ -453,7 +453,7 @@
 			"parent_tag": "buildings",
 			"child_tags": [],
 			"message_ids": [
-				731544514262728771
+				734556000706625547
 			]
 		},
 		"voting-on-proposals": {
@@ -463,7 +463,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				731543100874424350
+				734555933748887609
 			]
 		},
 		"winning": {
@@ -473,7 +473,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				731545968385851473
+				734556021141405786
 			]
 		}
 	}

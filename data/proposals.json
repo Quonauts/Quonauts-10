@@ -684,6 +684,19 @@
 				"421060058009305088": 1
 			},
 			"timestamp": 1594508837
+		},
+		{
+			"n": 48,
+			"author": 421060058009305088,
+			"content": "Create a new rule %recursion under %recursion:\nRecursion!",
+			"status": "voting",
+			"message_id": 734556606259527690,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 0,
+				"421060058009305088": 0
+			},
+			"timestamp": 1595198750
 		}
 	]
 }
