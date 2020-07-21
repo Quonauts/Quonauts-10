@@ -714,7 +714,9 @@
 			"content": "Add a new rule %prop-48:\n> proposal #48 may not be closed",
 			"status": "voting",
 			"message_id": 735109159334314055,
-			"votes": {},
+			"votes": {
+				"151149148639330304": 0
+			},
 			"timestamp": 1595330490
 		}
 	]
