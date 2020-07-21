@@ -695,9 +695,27 @@
 				"151149148639330304": 1,
 				"160279332454006795": 0,
 				"309787486278909952": 0,
-				"421060058009305088": 0
+				"421060058009305088": 1
 			},
 			"timestamp": 1595198750
+		},
+		{
+			"n": 49,
+			"author": 421060058009305088,
+			"content": "Add a new rule %nonrecursion:\n> Proposal #48 must not be passed.",
+			"status": "failed",
+			"message_id": 735108991482462298,
+			"votes": {},
+			"timestamp": 1595330450
+		},
+		{
+			"n": 50,
+			"author": 421060058009305088,
+			"content": "Add a new rule %prop-48:\n> proposal #48 may not be closed",
+			"status": "voting",
+			"message_id": 735109159334314055,
+			"votes": {},
+			"timestamp": 1595330490
 		}
 	]
 }
