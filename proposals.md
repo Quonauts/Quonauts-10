@@ -406,7 +406,7 @@ Recursion!
 
 <a name='49'/>
 
-## #49
+## #49 — Failed
 
 Add a new rule %nonrecursion:
 > Proposal #48 must not be passed.
