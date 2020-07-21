@@ -404,3 +404,10 @@ Then, replace XXX in %chives with the name of a random active player.
 Create a new rule %recursion under %recursion:
 Recursion!
 
+<a name='49'/>
+
+## #49
+
+Add a new rule %nonrecursion:
+> Proposal #48 must not be passed.
+
