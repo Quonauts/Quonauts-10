@@ -411,3 +411,10 @@ Recursion!
 Add a new rule %nonrecursion:
 > Proposal #48 must not be passed.
 
+<a name='50'/>
+
+## #50
+
+Add a new rule %prop-48:
+> proposal #48 may not be closed
+
