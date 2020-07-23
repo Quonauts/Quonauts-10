@@ -418,3 +418,9 @@ Add a new rule %nonrecursion:
 Add a new rule %prop-48:
 > proposal #48 may not be closed
 
+<a name='51'/>
+
+## #51
+
+<@!151149148639330304> wins the game and the game ends.
+
