@@ -506,3 +506,9 @@ Create a new rule %language-a under %meta-rules:
 
 <@!151149148639330304> is to declare that they have lost and that this is a very exploitative exploit that was totally valid.
 
+<a name='64'/>
+
+## #64
+
+<@!151149148639330304> is to be permenantly banned from the game.
+
