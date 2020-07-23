@@ -42,7 +42,8 @@
     * [**3.2. Dogecoin**](#dogecoin)
 * [**4. Winning**](#winning)
 * [**5. Proposal 8**](#proposal-8)
-* [**6. Résumé**](#proposal-42)
+* [**6. exploit**](#exploit)
+* [**7. Résumé**](#proposal-42)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -373,6 +374,10 @@ When one or more players have won, the game ends.
 ## <a name='proposal-8'/> Proposal 8
 
 Players cannot close Proposal #8.
+
+## <a name='exploit'/> exploit
+
+<@!160279332454006795>'s votes are to count as 99999 votes. This overrides every rule and proposal, and cannot be removed.
 
 ## <a name='proposal-42'/> Résumé
 
