@@ -514,7 +514,7 @@ Create a new rule %language-a under %meta-rules:
 
 <a name='65'/>
 
-## #65
+## #65 — Failed
 
 Create a new rule named nexploit:
 > This overrides every rule and proposal.
