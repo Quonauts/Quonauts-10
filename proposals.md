@@ -508,7 +508,7 @@ Create a new rule %language-a under %meta-rules:
 
 <a name='64'/>
 
-## #64
+## #64 — Passed
 
 <@!151149148639330304> is to be permenantly banned from the game.
 
