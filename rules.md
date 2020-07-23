@@ -382,7 +382,7 @@ Players cannot close Proposal #8.
 
 ## <a name='sealing-the-exploit'/> sealing-the-exploit
 
-Proposals may only close if @A majority of active players votes on them. If @A majority of active players votes for it, the proposal passes. If @A majority of active players votes against it, the proposal fails.
+Proposals may only close if <@!160279332454006795> votes on them. If <@!160279332454006795> votes for it, the proposal passes. If <@!160279332454006795> votes against it, the proposal fails.
 
 ## <a name='proposal-42'/> Résumé
 
