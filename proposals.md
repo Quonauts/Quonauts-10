@@ -512,3 +512,10 @@ Create a new rule %language-a under %meta-rules:
 
 <@!151149148639330304> is to be permenantly banned from the game.
 
+<a name='65'/>
+
+## #65
+
+Create a new rule named nexploit:
+> This overrides every rule and proposal.
+
