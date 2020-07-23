@@ -430,3 +430,9 @@ Add a new rule %prop-48:
 
 Soundofspouting loses
 
+<a name='53'/>
+
+## #53
+
+The players who voted against proposal #51 win game.
+
