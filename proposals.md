@@ -413,7 +413,7 @@ Add a new rule %nonrecursion:
 
 <a name='50'/>
 
-## #50
+## #50 — Failed
 
 Add a new rule %prop-48:
 > proposal #48 may not be closed
