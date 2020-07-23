@@ -43,7 +43,8 @@
 * [**4. Winning**](#winning)
 * [**5. Proposal 8**](#proposal-8)
 * [**6. exploit**](#exploit)
-* [**7. Résumé**](#proposal-42)
+* [**7. sealing-the-exploit**](#sealing-the-exploit)
+* [**8. Résumé**](#proposal-42)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -378,6 +379,10 @@ Players cannot close Proposal #8.
 ## <a name='exploit'/> exploit
 
 <@!160279332454006795>'s votes are to count as 99999 votes. This overrides every rule and proposal, and cannot be removed.
+
+## <a name='sealing-the-exploit'/> sealing-the-exploit
+
+Proposals may only close if @A majority of active players votes on them. If @A majority of active players votes for it, the proposal passes. If @A majority of active players votes against it, the proposal fails.
 
 ## <a name='proposal-42'/> Résumé
 
