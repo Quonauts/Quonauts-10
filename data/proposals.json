@@ -720,7 +720,7 @@
 			"n": 51,
 			"author": 151149148639330304,
 			"content": "<@!151149148639330304>, <@!332624525592231937>, <@!311467257643532288>, and <@!274720069395808268> win the game and the game ends.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 735703011292348457,
 			"votes": {
 				"151149148639330304": 1,
@@ -824,6 +824,31 @@
 				"628661184081559589": 0
 			},
 			"timestamp": 1595517991
+		},
+		{
+			"n": 58,
+			"author": 160279332454006795,
+			"content": "Create a new rule named %a:\n> ahsdkdhfdf's votes are to count as 300 votes.",
+			"status": "voting",
+			"message_id": 735906927862874153,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": 1,
+				"309787486278909952": 1,
+				"628661184081559589": -1
+			},
+			"timestamp": 1595520696
+		},
+		{
+			"n": 59,
+			"author": 160279332454006795,
+			"content": "Create a new rule named exploit:\n> <@!160279332454006795>'s votes are to count as 99999 votes. This overrides every rule and proposal, and cannot be removed.",
+			"status": "passed",
+			"message_id": 735911700905197658,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1595521833
 		}
 	]
 }
