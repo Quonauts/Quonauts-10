@@ -451,3 +451,9 @@ Replace %vet with the following:
 > 
 > Operation 1 (Power cost: 40) : If at least 2 hours since a Very Expensive Temple was built, the owner of it may pay 1385734550 dogecoin to activate it.
 
+<a name='56'/>
+
+## #56
+
+Remove %vet.
+
