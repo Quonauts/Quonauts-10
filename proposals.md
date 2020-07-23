@@ -436,3 +436,9 @@ Soundofspouting loses
 
 The players who voted against proposal #51 win game.
 
+<a name='54'/>
+
+## #54
+
+Soundofspouting is to be terminated at all costs.
+
