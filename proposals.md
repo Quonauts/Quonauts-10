@@ -422,5 +422,5 @@ Add a new rule %prop-48:
 
 ## #51
 
-<@!151149148639330304> wins the game and the game ends.
+<@!151149148639330304>, <@!332624525592231937>, <@!311467257643532288>, and <@!274720069395808268> win the game and the game ends.
 
