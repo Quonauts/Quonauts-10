@@ -482,7 +482,7 @@ Create a new rule named exploit:
 
 <a name='60'/>
 
-## #60
+## #60 — Passed
 
 Create a new rule named sealing-the-exploit:
 > Proposals may only close if <@!160279332454006795> votes on them. If <@!160279332454006795> votes for it, the proposal passes. If <@!160279332454006795> votes against it, the proposal fails.
