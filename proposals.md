@@ -489,7 +489,7 @@ Create a new rule named sealing-the-exploit:
 
 <a name='61'/>
 
-## #61 — Passed
+## #61
 
 Soundofspoutings current RVPs are to be deleted and are considered invalid.
 
