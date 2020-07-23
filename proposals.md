@@ -500,3 +500,9 @@ Soundofspoutings current RVPs are to be deleted and are considered invalid.
 Create a new rule %language-a under %meta-rules:
 > "English" is Language A for "Language A".
 
+<a name='63'/>
+
+## #63
+
+<@!151149148639330304> is to declare that they have lost and that this is a very exploitative exploit that was totally valid.
+
