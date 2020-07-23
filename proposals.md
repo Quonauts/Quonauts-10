@@ -480,3 +480,10 @@ Create a new rule named %a:
 Create a new rule named exploit:
 > <@!160279332454006795>'s votes are to count as 99999 votes. This overrides every rule and proposal, and cannot be removed.
 
+<a name='60'/>
+
+## #60
+
+Create a new rule named sealing-the-exploit:
+> Proposals may only close if <@!160279332454006795> votes on them. If <@!160279332454006795> votes for it, the proposal passes. If <@!160279332454006795> votes against it, the proposal fails.
+
