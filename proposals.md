@@ -502,7 +502,7 @@ Create a new rule %language-a under %meta-rules:
 
 <a name='63'/>
 
-## #63
+## #63 — Passed
 
 <@!151149148639330304> is to declare that they have lost and that this is a very exploitative exploit that was totally valid.
 
