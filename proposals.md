@@ -442,3 +442,12 @@ The players who voted against proposal #51 win game.
 
 Soundofspouting is to be terminated at all costs.
 
+<a name='55'/>
+
+## #55
+
+Replace %vet with the following:
+> Required building materials: 13 bricks, 109 clay
+> 
+> Operation 1 (Power cost: 40) : If at least 2 hours since a Very Expensive Temple was built, the owner of it may pay 1385734550 dogecoin to activate it.
+
