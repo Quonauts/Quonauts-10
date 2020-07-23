@@ -473,3 +473,10 @@ with:
 Create a new rule named %a:
 > ahsdkdhfdf's votes are to count as 300 votes.
 
+<a name='59'/>
+
+## #59
+
+Create a new rule named exploit:
+> <@!160279332454006795>'s votes are to count as 99999 votes. This overrides every rule and proposal, and cannot be removed.
+
