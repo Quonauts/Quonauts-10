@@ -720,7 +720,7 @@
 			"n": 51,
 			"author": 151149148639330304,
 			"content": "<@!151149148639330304>, <@!332624525592231937>, <@!311467257643532288>, and <@!274720069395808268> win the game and the game ends.",
-			"status": "failed",
+			"status": "voting",
 			"message_id": 735703011292348457,
 			"votes": {
 				"151149148639330304": 1,
@@ -849,6 +849,62 @@
 				"160279332454006795": 1
 			},
 			"timestamp": 1595521833
+		},
+		{
+			"n": 60,
+			"author": 160279332454006795,
+			"content": "Create a new rule named sealing-the-exploit:\n> Proposals may only close if <@!160279332454006795> votes on them. If <@!160279332454006795> votes for it, the proposal passes. If <@!160279332454006795> votes against it, the proposal fails.",
+			"status": "passed",
+			"message_id": 735912492185813092,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1595522022
+		},
+		{
+			"n": 61,
+			"author": 160279332454006795,
+			"content": "Soundofspoutings current RVPs are to be deleted and are considered invalid.",
+			"status": "passed",
+			"message_id": 735912990162813002,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 1
+			},
+			"timestamp": 1595522141
+		},
+		{
+			"n": 62,
+			"author": 258639553357676545,
+			"content": "Create a new rule %language-a under %meta-rules:\n> \"English\" is Language A for \"Language A\".",
+			"status": "passed",
+			"message_id": 735914842623311963,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1595522583
+		},
+		{
+			"n": 63,
+			"author": 160279332454006795,
+			"content": "<@!151149148639330304> is to declare that they have lost and that this is a very exploitative exploit that was totally valid.",
+			"status": "passed",
+			"message_id": 735915013713166336,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1595522623
+		},
+		{
+			"n": 64,
+			"author": 160279332454006795,
+			"content": "<@!151149148639330304> is to be permenantly banned from the game.",
+			"status": "passed",
+			"message_id": 735915440974332014,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1595522725
 		}
 	]
 }
