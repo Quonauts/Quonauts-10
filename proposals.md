@@ -493,3 +493,10 @@ Create a new rule named sealing-the-exploit:
 
 Soundofspoutings current RVPs are to be deleted and are considered invalid.
 
+<a name='62'/>
+
+## #62
+
+Create a new rule %language-a under %meta-rules:
+> "English" is Language A for "Language A".
+
