@@ -466,3 +466,10 @@ Replace the following in Proposal #51:
 with:
 > <@!311467257643532288>, <@!160767876268032000>
 
+<a name='58'/>
+
+## #58
+
+Create a new rule named %a:
+> ahsdkdhfdf's votes are to count as 300 votes.
+
