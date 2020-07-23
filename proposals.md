@@ -457,3 +457,12 @@ Replace %vet with the following:
 
 Remove %vet.
 
+<a name='57'/>
+
+## #57
+
+Replace the following in Proposal #51:
+> <@!311467257643532288>
+with:
+> <@!311467257643532288>, <@!160767876268032000>
+
