@@ -525,3 +525,10 @@ Create a new rule named nexploit:
 
 end the game
 
+<a name='67'/>
+
+## #67
+
+Create a new rule called %rust:
+> Rust is to be considered the best programming language. Ferris is to be considered its mascot.
+
