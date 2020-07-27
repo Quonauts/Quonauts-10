@@ -519,3 +519,9 @@ Create a new rule %language-a under %meta-rules:
 Create a new rule named nexploit:
 > This overrides every rule and proposal.
 
+<a name='66'/>
+
+## #66
+
+end the game
+
