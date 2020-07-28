@@ -43,6 +43,7 @@
 * [**4. Winning**](#winning)
 * [**5. Proposal 8**](#proposal-8)
 * [**6. Résumé**](#proposal-42)
+* [**7. Rust**](#rust)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -377,4 +378,8 @@ Players cannot close Proposal #8.
 ## <a name='proposal-42'/> Résumé
 
 Whenever the game ends, un-archive all Quonauts 9.5 game channels.
+
+## <a name='rust'/> Rust
+
+Rust is to be considered the best programming language. Ferris is to be considered its mascot.
 
