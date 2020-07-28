@@ -527,7 +527,7 @@ end the game
 
 <a name='67'/>
 
-## #67
+## #67 — Passed
 
 Create a new rule called %rust:
 > Rust is to be considered the best programming language. Ferris is to be considered its mascot.
