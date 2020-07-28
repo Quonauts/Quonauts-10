@@ -521,7 +521,7 @@ Create a new rule named nexploit:
 
 <a name='66'/>
 
-## #66
+## #66 — Failed
 
 end the game
 
