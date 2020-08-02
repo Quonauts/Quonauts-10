@@ -538,3 +538,9 @@ Create a new rule called %rust:
 
 name the voiced palatal nasal (ɲ) "nyuh" (ɲuh).
 
+<a name='69'/>
+
+## #69
+
+<@!258639553357676545> wins the game. <@!160279332454006795> wins the game. <@!151149148639330304> loses the game.
+
