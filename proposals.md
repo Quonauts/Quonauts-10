@@ -544,3 +544,10 @@ name the voiced palatal nasal (ɲ) "nyuh" (ɲuh).
 
 <@!258639553357676545> wins the game. <@!160279332454006795> wins the game. <@!151149148639330304> loses the game.
 
+<a name='70'/>
+
+## #70
+
+Add a new rule %9ee6f60faf321bbd6d56904fe70fe4c5:
+> Proposal 70 is considered open on any prime-numbered day of the month.
+
