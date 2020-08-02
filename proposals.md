@@ -532,3 +532,9 @@ end the game
 Create a new rule called %rust:
 > Rust is to be considered the best programming language. Ferris is to be considered its mascot.
 
+<a name='68'/>
+
+## #68
+
+name the voiced palatal nasal (ɲ) "nyuh" (ɲuh).
+
