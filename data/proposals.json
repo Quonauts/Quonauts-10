@@ -922,6 +922,81 @@
 				"421060058009305088": 1
 			},
 			"timestamp": 1595527640
+		},
+		{
+			"n": 66,
+			"author": 353513054912249856,
+			"content": "end the game",
+			"status": "failed",
+			"message_id": 737127758353793044,
+			"votes": {
+				"160279332454006795": -1,
+				"258639553357676545": -1,
+				"309787486278909952": 0,
+				"421060058009305088": 1
+			},
+			"timestamp": 1595811754
+		},
+		{
+			"n": 67,
+			"author": 258639553357676545,
+			"content": "Create a new rule called %rust:\n> Rust is to be considered the best programming language. Ferris is to be considered its mascot.",
+			"status": "passed",
+			"message_id": 737384245172895806,
+			"votes": {
+				"160279332454006795": 1,
+				"258639553357676545": 1,
+				"309787486278909952": -1
+			},
+			"timestamp": 1595872906
+		},
+		{
+			"n": 68,
+			"author": 421060058009305088,
+			"content": "name the voiced palatal nasal (\u0272) \"nyuh\" (\u0272uh).",
+			"status": "voting",
+			"message_id": 739279602773655614,
+			"votes": {
+				"258639553357676545": 1,
+				"309787486278909952": 0,
+				"421060058009305088": 1
+			},
+			"timestamp": 1596324800
+		},
+		{
+			"n": 69,
+			"author": 258639553357676545,
+			"content": "<@!258639553357676545> wins the game. <@!160279332454006795> wins the game. <@!151149148639330304> loses the game.",
+			"status": "passed",
+			"message_id": 739588311902978118,
+			"votes": {
+				"258639553357676545": 1,
+				"332271551481118732": 1,
+				"421060058009305088": -1
+			},
+			"timestamp": 1596398402
+		},
+		{
+			"n": 70,
+			"author": 258639553357676545,
+			"content": "Add a new rule %9ee6f60faf321bbd6d56904fe70fe4c5:\n> Proposal 70 is considered open on any prime-numbered day of the month.",
+			"status": "voting",
+			"message_id": 739602295725228175,
+			"votes": {
+				"258639553357676545": 1,
+				"332271551481118732": 1,
+				"421060058009305088": 1
+			},
+			"timestamp": 1596401736
+		},
+		{
+			"n": 71,
+			"author": 421060058009305088,
+			"content": "\ud83e\udd2e",
+			"status": "voting",
+			"message_id": 740723599329198100,
+			"votes": {},
+			"timestamp": 1596669079
 		}
 	]
 }

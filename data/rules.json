@@ -363,12 +363,13 @@
 				"quantities",
 				"winning",
 				"proposal-8",
-				"proposal-42"
+				"proposal-42",
+				"rust"
 			],
 			"message_ids": [
-				735912724319699036,
-				735912725200371744,
-				735912726399811654
+				737639071492472832,
+				737639072306167828,
+				737639072868335687
 			]
 		},
 		"rule-violation-polls": {
@@ -399,6 +400,16 @@
 			"child_tags": [],
 			"message_ids": [
 				734555955877904545
+			]
+		},
+		"rust": {
+			"tag": "rust",
+			"title": "Rust",
+			"content": "Rust is to be considered the best programming language. Ferris is to be considered its mascot.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				737639070741692456
 			]
 		},
 		"style-conventions": {
