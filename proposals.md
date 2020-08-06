@@ -551,3 +551,9 @@ name the voiced palatal nasal (ɲ) "nyuh" (ɲuh).
 Add a new rule %9ee6f60faf321bbd6d56904fe70fe4c5:
 > Proposal 70 is considered open on any prime-numbered day of the month.
 
+<a name='71'/>
+
+## #71
+
+🤮
+
