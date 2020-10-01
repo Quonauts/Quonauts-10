@@ -1,4 +1,4 @@
-# Quonauts X: Factory Reset — Proposals
+# Quonauts 11: NEVER SETTLE — Proposals
 
 <a name='1'/>
 
